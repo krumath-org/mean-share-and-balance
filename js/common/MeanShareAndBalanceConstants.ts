@@ -110,7 +110,9 @@ const MeanShareAndBalanceConstants = {
   FULCRUM_DEFAULT_POSITION: 5,
   FULCRUM_ICON_TRIANGLE_DIMENSIONS: { triangleHeight: 22, triangleWidth: 24 },
   GRAB_RELEASE_SOUND_LEVEL: 0.25,
-  DEFAULT_FONT: new PhetFont( 16 )
+  get DEFAULT_FONT(): PhetFont {
+    return new PhetFont( 16 );
+  }
 };
 
 export default MeanShareAndBalanceConstants;

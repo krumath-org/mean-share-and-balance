@@ -56,10 +56,9 @@ export type MeanInfoPanelOptions = SelfOptions & WithRequired<PanelOptions, 'tan
 
 // constants
 const TEXT_MAX_WIDTH = 300;
-const LABEL_FONT = new PhetFont( 16 );
-const LABEL_TEXT_OPTIONS = { font: LABEL_FONT, maxWidth: TEXT_MAX_WIDTH };
-const FRACTION_NUMBER_FONT = new PhetFont( 14 );
-const NUMBER_FONT = new PhetFont( 16 );
+const createLabelTextOptions = () => ( { font: new PhetFont( 16 ), maxWidth: TEXT_MAX_WIDTH } );
+const createFractionNumberFont = () => new PhetFont( 14 );
+const createNumberFont = () => new PhetFont( 16 );
 const VINCULUM_LINE_WIDTH = 1;
 const DIALOG_MAX_WIDTH_MARGIN = 50;
 
@@ -130,7 +129,7 @@ export default class MeanInfoPanel extends Panel {
 
     const calculationsTextOptions = combineOptions<TextOptions>( {
       visibleProperty: calculationsVisibleProperty
-    }, LABEL_TEXT_OPTIONS );
+    }, createLabelTextOptions() );
 
 
     const equalsPatternStringProperty = new PatternStringProperty( MeanShareAndBalanceStrings.meanEqualSignPatternStringProperty, {
@@ -158,7 +157,7 @@ export default class MeanInfoPanel extends Panel {
       const unreducedFraction = new MixedFractionNode( {
         numerator: 9,
         denominator: 10,
-        fractionNumbersFont: FRACTION_NUMBER_FONT,
+        fractionNumbersFont: createFractionNumberFont(),
         vinculumLineWidth: VINCULUM_LINE_WIDTH
       } );
       minContentHeight = unreducedFraction.bounds.height;
@@ -189,7 +188,7 @@ export default class MeanInfoPanel extends Panel {
     // active data points there are.
     let alignBoxNode: Node = calculationNode;
     if ( options.zeroDataMessageProperty !== null ) {
-      const messageOptions = combineOptions<TextOptions>( LABEL_TEXT_OPTIONS,
+      const messageOptions = combineOptions<TextOptions>( createLabelTextOptions(),
         { maxWidth: notebookPaperBounds.width - DIALOG_MAX_WIDTH_MARGIN } );
       const zeroDataMessageText = new Text( options.zeroDataMessageProperty, messageOptions );
 
@@ -270,7 +269,7 @@ export default class MeanInfoPanel extends Panel {
       // Create the Node that shows a set of numbers being added together on top and the number of items to divide by
       // on the bottom.
       const fractionNumberOptions = {
-        font: FRACTION_NUMBER_FONT
+        font: createFractionNumberFont()
       };
       const additionText = new Text( values.join( ' + ' ), fractionNumberOptions );
       const additionFractionLine = new Line( 0, 0, additionText.width, 0, {
@@ -284,7 +283,7 @@ export default class MeanInfoPanel extends Panel {
       const unreducedFraction = new MixedFractionNode( {
         numerator: totalValues,
         denominator: numberOfActiveDataObjects,
-        fractionNumbersFont: FRACTION_NUMBER_FONT,
+        fractionNumbersFont: createFractionNumberFont(),
         vinculumLineWidth: VINCULUM_LINE_WIDTH
       } );
 
@@ -304,15 +303,15 @@ export default class MeanInfoPanel extends Panel {
           whole: ( meanWholePart > 0 || totalValues === 0 ) ? meanWholePart : null,
           numerator: fraction ? fraction.numerator : null,
           denominator: fraction ? fraction.denominator : null,
-          wholeNumberFont: NUMBER_FONT,
-          fractionNumbersFont: FRACTION_NUMBER_FONT,
+          wholeNumberFont: createNumberFont(),
+          fractionNumbersFont: createFractionNumberFont(),
           vinculumLineWidth: VINCULUM_LINE_WIDTH
         } );
 
         decimalRepresentationText = new Text( decimalTextPatternStringProperty,
           calculationsTextOptions );
         const decimalOptions = {
-          font: NUMBER_FONT
+          font: createNumberFont()
         };
         decimalRepresentation = new Text( Utils.toFixedNumber( mean, 1 ), decimalOptions );
       }
@@ -320,7 +319,7 @@ export default class MeanInfoPanel extends Panel {
         assert && assert( remainderPatternStringProperty,
           'If the calculatedMeanDisplayMode is "remainder" the remainderPatternStringProperty must exist.' );
         valueRepresentation = new Text( remainderPatternStringProperty!, {
-          font: NUMBER_FONT,
+          font: createNumberFont(),
           maxWidth: TEXT_MAX_WIDTH
         } );
       }

@@ -9,6 +9,7 @@
 import Property from '../../../../axon/js/Property.js';
 import optionize from '../../../../phet-core/js/optionize.js';
 import WithRequired from '../../../../phet-core/js/types/WithRequired.js';
+import PhetFont from '../../../../scenery-phet/js/PhetFont.js';
 import Text from '../../../../scenery/js/nodes/Text.js';
 import { CheckboxOptions } from '../../../../sun/js/Checkbox.js';
 import VerticalCheckboxGroup, { VerticalCheckboxGroupItem, VerticalCheckboxGroupOptions } from '../../../../sun/js/VerticalCheckboxGroup.js';
@@ -47,6 +48,7 @@ export default class MeanShareAndBalanceCheckboxGroup extends VerticalCheckboxGr
     if ( options.predictMeanVisibleProperty ) {
       checkboxItems.push( {
         createNode: () => new Text( MeanShareAndBalanceStrings.predictMeanStringProperty, {
+          font: new PhetFont( MeanShareAndBalanceConstants.CHECKBOX_FONT_SIZE ),
           fontSize: MeanShareAndBalanceConstants.CHECKBOX_FONT_SIZE,
           maxWidth: MeanShareAndBalanceConstants.MAX_CONTROLS_TEXT_WIDTH
         } ),
@@ -58,6 +60,7 @@ export default class MeanShareAndBalanceCheckboxGroup extends VerticalCheckboxGr
     if ( options.tickMarksVisibleProperty ) {
       checkboxItems.push( {
         createNode: () => new Text( MeanShareAndBalanceStrings.tickMarksStringProperty, {
+          font: new PhetFont( MeanShareAndBalanceConstants.CHECKBOX_FONT_SIZE ),
           fontSize: MeanShareAndBalanceConstants.CHECKBOX_FONT_SIZE,
           maxWidth: MeanShareAndBalanceConstants.MAX_CONTROLS_TEXT_WIDTH
         } ),
@@ -69,6 +72,7 @@ export default class MeanShareAndBalanceCheckboxGroup extends VerticalCheckboxGr
     if ( options.totalCheckboxItemOptions ) {
       checkboxItems.push( {
         createNode: () => new Text( MeanShareAndBalanceStrings.totalStringProperty, {
+          font: new PhetFont( MeanShareAndBalanceConstants.CHECKBOX_FONT_SIZE ),
           fontSize: MeanShareAndBalanceConstants.CHECKBOX_FONT_SIZE,
           maxWidth: MeanShareAndBalanceConstants.MAX_CONTROLS_TEXT_WIDTH
         } ),

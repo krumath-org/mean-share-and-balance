@@ -1,0 +1,3215 @@
+{
+  "language": "Khmer",
+  "locale": "km",
+  "instructions": "Preserve formatting placeholders in translated values.",
+  "repositories": {
+    "bamboo": {
+      "bamboo.title": {
+        "english": "Bamboo Demo",
+        "khmer": "ការបង្ហាញគំរូ Bamboo"
+      }
+    },
+    "joist": {
+      "joist.title": {
+        "english": "joist demo",
+        "khmer": "ការបង្ហាញគំរូ joist"
+      },
+      "done": {
+        "english": "Done",
+        "khmer": "រួចរាល់"
+      },
+      "menuItem.options": {
+        "english": "Options…",
+        "khmer": "ជម្រើស…"
+      },
+      "menuItem.about": {
+        "english": "About…",
+        "khmer": "អំពី…"
+      },
+      "menuItem.outputLog": {
+        "english": "Output Log",
+        "khmer": "កំណត់ហេតុលទ្ធផល"
+      },
+      "menuItem.phetWebsite": {
+        "english": "PhET Website…",
+        "khmer": "គេហទំព័រ PhET…"
+      },
+      "menuItem.reportAProblem": {
+        "english": "Report a Problem…",
+        "khmer": "រាយការណ៍បញ្ហា…"
+      },
+      "menuItem.screenshot": {
+        "english": "Screenshot",
+        "khmer": "រូបថតអេក្រង់"
+      },
+      "menuItem.fullscreen": {
+        "english": "Full Screen",
+        "khmer": "ពេញអេក្រង់"
+      },
+      "menuItem.getUpdate": {
+        "english": "Check for Updates…",
+        "khmer": "ពិនិត្យមើលបច្ចុប្បន្នភាព…"
+      },
+      "menuItem.enhancedSound": {
+        "english": "Extra Sound",
+        "khmer": "សំឡេងបន្ថែម"
+      },
+      "menuItem.mailInputEventsLog": {
+        "english": "Mail Input Events Log",
+        "khmer": "ផ្ញើកំណត់ហេតុព្រឹត្តិការណ៍បញ្ចូលតាមអ៊ីមែល"
+      },
+      "menuItem.outputInputEventsLog": {
+        "english": "Output Input Events Log",
+        "khmer": "បង្ហាញកំណត់ហេតុព្រឹត្តិការណ៍បញ្ចូល"
+      },
+      "menuItem.submitInputEventsLog": {
+        "english": "Submit Input Events Log",
+        "khmer": "បញ្ជូនកំណត់ហេតុព្រឹត្តិការណ៍បញ្ចូល"
+      },
+      "menuItem.settings": {
+        "english": "Settings",
+        "khmer": "ការកំណត់"
+      },
+      "title.settings": {
+        "english": "Settings",
+        "khmer": "ការកំណត់"
+      },
+      "showPointers": {
+        "english": "Show Pointers",
+        "khmer": "បង្ហាញទ្រនិចចង្អុល"
+      },
+      "termsPrivacyAndLicensing": {
+        "english": "Terms, Privacy & Licensing",
+        "khmer": "លក្ខខណ្ឌ ឯកជនភាព និងអាជ្ញាបណ្ណ"
+      },
+      "privacyPolicy": {
+        "english": "Privacy Policy",
+        "khmer": "គោលការណ៍ឯកជនភាព"
+      },
+      "donateToPhet": {
+        "english": "Donate to PhET",
+        "khmer": "បរិច្ចាគដល់ PhET"
+      },
+      "license.title": {
+        "english": "License",
+        "khmer": "អាជ្ញាបណ្ណ"
+      },
+      "credits.title": {
+        "english": "Credits",
+        "khmer": "ការទទួលស្គាល់ការចូលរួម"
+      },
+      "credits.leadDesign": {
+        "english": "Lead Design: {0}",
+        "khmer": "អ្នកដឹកនាំការរចនា៖ {0}"
+      },
+      "credits.softwareDevelopment": {
+        "english": "Software Development: {0}",
+        "khmer": "ការអភិវឌ្ឍកម្មវិធី៖ {0}"
+      },
+      "credits.team": {
+        "english": "Team: {0}",
+        "khmer": "ក្រុមការងារ៖ {0}"
+      },
+      "credits.contributors": {
+        "english": "Contributors: {0}",
+        "khmer": "អ្នករួមចំណែក៖ {0}"
+      },
+      "credits.qualityAssurance": {
+        "english": "Quality Assurance: {0}",
+        "khmer": "ការធានាគុណភាព៖ {0}"
+      },
+      "credits.graphicArts": {
+        "english": "Graphic Arts: {0}",
+        "khmer": "សិល្បៈក្រាហ្វិក៖ {0}"
+      },
+      "credits.soundDesign": {
+        "english": "Sound Design: {0}",
+        "khmer": "ការរចនាសំឡេង៖ {0}"
+      },
+      "credits.translation": {
+        "english": "Translation",
+        "khmer": "ការបកប្រែ"
+      },
+      "credits.thanks": {
+        "english": "Thanks",
+        "khmer": "ថ្លែងអំណរគុណ"
+      },
+      "options.title": {
+        "english": "Options",
+        "khmer": "ជម្រើស"
+      },
+      "versionPattern": {
+        "english": "version {0}",
+        "khmer": "កំណែ {0}"
+      },
+      "updates.upToDate": {
+        "english": "This simulation is up to date.",
+        "khmer": "ការពិសោធន៍ក្លែងធ្វើនេះគឺទាន់សម័យហើយ។"
+      },
+      "updates.outOfDate": {
+        "english": "New version available",
+        "khmer": "មានកំណែថ្មី"
+      },
+      "updates.checking": {
+        "english": "Checking for updates…",
+        "khmer": "កំពុងពិនិត្យមើលបច្ចុប្បន្នភាព…"
+      },
+      "updates.offline": {
+        "english": "Unable to check for updates.",
+        "khmer": "មិនអាចពិនិត្យមើលបច្ចុប្បន្នភាពបានទេ។"
+      },
+      "updates.newVersionAvailable": {
+        "english": "There is a new version available: {0}.",
+        "khmer": "មានកំណែថ្មីដែលអាចប្រើបាន៖ {0}។"
+      },
+      "updates.yourCurrentVersion": {
+        "english": "Your current version is: {0}.",
+        "khmer": "កំណែបច្ចុប្បន្នរបស់អ្នកគឺ៖ {0}។"
+      },
+      "updates.getUpdate": {
+        "english": "Get Update…",
+        "khmer": "ធ្វើបច្ចុប្បន្នភាព…"
+      },
+      "updates.noThanks": {
+        "english": "No Thanks",
+        "khmer": "ទេ អរគុណ"
+      },
+      "translation.credits.link": {
+        "english": "Translation Credits",
+        "khmer": "ការទទួលស្គាល់ការបកប្រែ"
+      },
+      "thirdParty.credits.link": {
+        "english": "Third-party Credits",
+        "khmer": "ការទទួលស្គាល់ភាគីទីបី"
+      },
+      "keyboardShortcuts.title": {
+        "english": "Keyboard Shortcuts",
+        "khmer": "ផ្លូវកាត់ក្តារចុច"
+      },
+      "keyboardShortcuts.toGetStarted": {
+        "english": "to get started",
+        "khmer": "ដើម្បីចាប់ផ្តើម"
+      },
+      "simTitleWithScreenNamePattern": {
+        "english": "{{simName}} — {{screenName}}",
+        "khmer": "{{simName}} — {{screenName}}"
+      },
+      "projectorMode": {
+        "english": "Projector Mode",
+        "khmer": "ទម្រង់ម៉ាស៊ីនបញ្ចាំង (Projector)"
+      },
+      "queryParametersWarningDialog.invalidQueryParameters": {
+        "english": "Invalid Query Parameters",
+        "khmer": "ប៉ារ៉ាម៉ែត្រ Query មិនត្រឹមត្រូវ"
+      },
+      "queryParametersWarningDialog.oneOrMoreQueryParameters": {
+        "english": "One or more of these query parameters have<br>invalid values:",
+        "khmer": "ប៉ារ៉ាម៉ែត្រ Query មួយ ឬច្រើនមាន\n\n\n\nតម្លៃមិនត្រឹមត្រូវ៖"
+      },
+      "queryParametersWarningDialog.theSimulationWillStart": {
+        "english": "The simulation will start with default values for<br>those query parameters.",
+        "khmer": "ការពិសោធន៍ក្លែងធ្វើនឹងចាប់ផ្តើមជាមួយនឹងតម្លៃលំនាំដើមសម្រាប់\n\n\n\nប៉ារ៉ាម៉ែត្រ Query ទាំងនោះ។"
+      },
+      "ieErrorPage.platformError": {
+        "english": "Platform Error",
+        "khmer": "កំហុសប្រព័ន្ធដំណើរការ"
+      },
+      "ieErrorPage.ieIsNotSupported": {
+        "english": "Internet Explorer is not supported.",
+        "khmer": "មិនគាំទ្រ Internet Explorer ទេ។"
+      },
+      "ieErrorPage.useDifferentBrowser": {
+        "english": "Please use a different browser to run this simulation.",
+        "khmer": "សូមប្រើកម្មវិធីរុករកផ្សេងទៀតដើម្បីដំណើរការការពិសោធន៍ក្លែងធ្វើនេះ។"
+      },
+      "preferences.title": {
+        "english": "Preferences",
+        "khmer": "ចំណង់ចំណូលចិត្ត"
+      },
+      "preferences.tabs.general.title": {
+        "english": "General",
+        "khmer": "ទូទៅ"
+      },
+      "preferences.tabs.overview.title": {
+        "english": "Overview",
+        "khmer": "ទិដ្ឋភាពទូទៅ"
+      },
+      "preferences.tabs.general.accessibilityIntro": {
+        "english": "We are adding features to our simulations to make them more inclusive. Some of these features support accessibility for learners with diverse needs and within diverse environments. Explore this menu to review or change the default presentation settings.",
+        "khmer": "យើងកំពុងបន្ថែមមុខងារនានាទៅកាន់ការពិសោធន៍ក្លែងធ្វើរបស់យើង ដើម្បីឱ្យកាន់តែមានលក្ខណៈទូលំទូលាយសម្រាប់អ្នកសិក្សាគ្រប់រូប។ មុខងារមួយចំនួនគាំទ្រដល់លទ្ធភាពប្រើប្រាស់សម្រាប់អ្នកសិក្សាដែលមានតម្រូវការចម្រុះ និងក្នុងបរិយាកាសផ្សេងៗគ្នា។ សូមស្វែងយល់ពីម៉ឺនុយនេះដើម្បីពិនិត្យឡើងវិញ ឬផ្លាស់ប្តូរការកំណត់បទបង្ហាញលំនាំដើម។"
+      },
+      "preferences.tabs.general.moreAccessibility": {
+        "english": "Look for Inclusive Features on the Simulations Filter page of the PhET website to find all simulations with available features.",
+        "khmer": "ស្វែងរក \"មុខងារបរិយាបន្ន\" នៅលើទំព័រតម្រងការពិសោធន៍ក្លែងធ្វើនៃគេហទំព័រ PhET ដើម្បីស្វែងរកការពិសោធន៍ក្លែងធ្វើទាំងអស់ដែលមានមុខងារទាំងនេះ។"
+      },
+      "preferences.tabs.simulation.title": {
+        "english": "Simulation",
+        "khmer": "ការពិសោធន៍ក្លែងធ្វើ"
+      },
+      "preferences.tabs.visual.title": {
+        "english": "Visual",
+        "khmer": "រូបភាព/គំហើញ"
+      },
+      "preferences.tabs.visual.interactiveHighlights": {
+        "english": "Interactive Highlights",
+        "khmer": "ការរំលេចពណ៌នៅពេលអន្តរកម្ម"
+      },
+      "preferences.tabs.visual.interactiveHighlightsDescription": {
+        "english": "Add visual highlights for mouse and touch as you interact.",
+        "khmer": "បន្ថែមការរំលេចពណ៌សម្រាប់កណ្ដុរ និងការប៉ះបញ្ជា នៅពេលអ្នកធ្វើអន្តរកម្ម។"
+      },
+      "preferences.tabs.visual.projectorModeDescription": {
+        "english": "Increase color contrast for better visibility in classrooms.",
+        "khmer": "បង្កើនកម្រិតកម្រិតពណ៌ច្បាស់ (Contrast) ដើម្បីងាយស្រួលមើលនៅក្នុងថ្នាក់រៀន។"
+      },
+      "preferences.tabs.audio.title": {
+        "english": "Audio",
+        "khmer": "សំឡេង"
+      },
+      "preferences.tabs.audio.voicing.titleEnglishOnly": {
+        "english": "Voicing (English Only)",
+        "khmer": "ការអានជាសំឡេង (ជាភាសាអង់គ្លេសប៉ុណ្ណោះ)"
+      },
+      "preferences.tabs.audio.voicing.description": {
+        "english": "Voice and highlight content as you interact.",
+        "khmer": "អានបញ្ចេញសំឡេង និងរំលេចខ្លឹមសារនៅពេលអ្នកធ្វើអន្តរកម្ម។"
+      },
+      "preferences.tabs.audio.sounds.title": {
+        "english": "Sounds",
+        "khmer": "សំឡេង"
+      },
+      "preferences.tabs.audio.sounds.extraSounds.title": {
+        "english": "Extra Sounds",
+        "khmer": "សំឡេងបន្ថែម"
+      },
+      "preferences.tabs.audio.audioFeatures.title": {
+        "english": "Audio Features",
+        "khmer": "មុខងារសំឡេង"
+      },
+      "preferences.tabs.audio.sounds.description": {
+        "english": "Play sonifications and sound effects as you interact.",
+        "khmer": "ចាក់សំឡេងតំណាងទិន្នន័យ និងសំឡេងបែបផែននៅពេលអ្នកធ្វើអន្តរកម្ម។"
+      },
+      "preferences.tabs.audio.sounds.extraSounds.description": {
+        "english": "Play additional sound that may be helpful for some learners.",
+        "khmer": "ចាក់សំឡេងបន្ថែមដែលអាចមានប្រយោជន៍សម្រាប់អ្នកសិក្សាមួយចំនួន។"
+      },
+      "preferences.tabs.input.title": {
+        "english": "Input",
+        "khmer": "ឧបករណ៍បញ្ចូល/ការបញ្ជា"
+      },
+      "preferences.tabs.localization.title": {
+        "english": "Localization",
+        "khmer": "ការធ្វើមូលដ្ឋានីយកម្ម"
+      },
+      "preferences.tabs.localization.languageSelection.title": {
+        "english": "Languages",
+        "khmer": "ភាសា"
+      },
+      "preferences.tabs.localization.languageSelection.description": {
+        "english": "Change language to translate on-screen text. Additional descriptions, when present, remain in English.",
+        "khmer": "ផ្លាស់ប្តូរភាសាដើម្បីបកប្រែអត្ថបទលើអេក្រង់។ ការពិពណ៌នាបន្ថែម (ប្រសិនបើមាន) នឹងនៅតែជាភាសាអង់គ្លេស។"
+      },
+      "preferences.tabs.localization.regionAndCulture.title": {
+        "english": "Region and Culture",
+        "khmer": "តំបន់ និងវប្បធម៌"
+      },
+      "preferences.tabs.localization.regionAndCulture.description": {
+        "english": "Select the portrayal of people, places, or objects in the sim. Images are not intended to represent the entire diversity of a region or culture.",
+        "khmer": "ជ្រើសរើសទម្រង់នៃការបង្ហាញមនុស្ស ទីកន្លែង ឬវត្ថុនៅក្នុងការពិសោធន៍ក្លែងធ្វើ។ រូបភាពទាំងនេះមិនមានបំណងតំណាងឱ្យភាពចម្រុះទាំងស្រុងនៃតំបន់ ឬវប្បធម៌ណាមួយឡើយ។"
+      },
+      "preferences.tabs.localization.regionAndCulture.africa": {
+        "english": "Africa",
+        "khmer": "អាហ្វ្រិក"
+      },
+      "preferences.tabs.localization.regionAndCulture.africaModest": {
+        "english": "Africa (Modest)",
+        "khmer": "អាហ្វ្រិក (សមរម្យ)"
+      },
+      "preferences.tabs.localization.regionAndCulture.asia": {
+        "english": "Asia",
+        "khmer": "អាស៊ី"
+      },
+      "preferences.tabs.localization.regionAndCulture.latinAmerica": {
+        "english": "Latin America",
+        "khmer": "អាមេរិកឡាទីន"
+      },
+      "preferences.tabs.localization.regionAndCulture.oceania": {
+        "english": "Oceania",
+        "khmer": "អូសេអានី"
+      },
+      "preferences.tabs.localization.regionAndCulture.random": {
+        "english": "Random",
+        "khmer": "ចៃដន្យ"
+      },
+      "preferences.tabs.localization.regionAndCulture.unitedStatesOfAmerica": {
+        "english": "United States of America",
+        "khmer": "សហរដ្ឋអាមេរិក"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.africa": {
+        "english": "Africa",
+        "khmer": "អាហ្វ្រិក"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.africaModest": {
+        "english": "Africa (Modest)",
+        "khmer": "អាហ្វ្រិក (សមរម្យ)"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.asia": {
+        "english": "Asia",
+        "khmer": "អាស៊ី"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.latinAmerica": {
+        "english": "Latin America",
+        "khmer": "អាមេរិកឡាទីន"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.oceania": {
+        "english": "Oceania",
+        "khmer": "អូសេអានី"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.multicultural": {
+        "english": "Multicultural",
+        "khmer": "ពហុវប្បធម៌"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.unitedStatesOfAmerica": {
+        "english": "United States of America",
+        "khmer": "សហរដ្ឋអាមេរិក"
+      },
+      "PhetButton.name": {
+        "english": "PhET Menu Button",
+        "khmer": "ប៊ូតុងម៉ឺនុយ PhET"
+      },
+      "HomeButton.name": {
+        "english": "Home",
+        "khmer": "ទំព័រដើម"
+      },
+      "adaptedFrom": {
+        "english": "adapted from",
+        "khmer": "កែសម្រួលពី"
+      },
+      "titlePattern": {
+        "english": "{0} {1}",
+        "khmer": "{0} {1}"
+      },
+      "preferences.tabs.input.gestureControls.title": {
+        "english": "Gesture Control",
+        "khmer": "ការបញ្ជាដោយកាយវិការ"
+      },
+      "preferences.tabs.input.gestureControls.description": {
+        "english": "Use touch with custom swipes and taps instead. No direct touch with gesture control enabled.",
+        "khmer": "ប្រើការប៉ះបញ្ជាដោយការអូស និងចុចតាមការកំណត់ជំនួសវិញ។ ការប៉ះផ្ទាល់នឹងត្រូវបិទនៅពេលមុខងារបញ្ជាដោយកាយវិការត្រូវបានបើក។"
+      },
+      "preferences.tabs.general.simulationSpecificSettings": {
+        "english": "Simulation-specific Settings",
+        "khmer": "ការកំណត់ជាក់លាក់នៃការពិសោធន៍ក្លែងធ្វើ"
+      },
+      "a11y.keyboardHelp.keyboardShortcuts": {
+        "english": "Keyboard Shortcuts",
+        "khmer": "ផ្លូវកាត់ក្តារចុច"
+      },
+      "a11y.keyboardHelp.tabToGetStarted.accessibleHelpText": {
+        "english": "Use Tab to find sim actions, cursor keys to read details.",
+        "khmer": "ប្រើគ្រាប់ចុច Tab ដើម្បីស្វែងរកសកម្មភាពពិសោធន៍ក្លែងធ្វើ និងគ្រាប់ចុចព្រួញដើម្បីអានសេចក្តីលម្អិត។"
+      },
+      "a11y.keyboardHelp.tabToGetStarted.readingBlockNameResponse": {
+        "english": "Tab to get started.",
+        "khmer": "ចុច Tab ដើម្បីចាប់ផ្តើម។"
+      },
+      "a11y.inPlayArea": {
+        "english": "In Play Area:",
+        "khmer": "ក្នុងតំបន់លេង/ដំណើរការ៖"
+      },
+      "a11y.inControlArea": {
+        "english": "In Control Area:",
+        "khmer": "ក្នុងតំបន់បញ្ជា៖"
+      },
+      "a11y.simScreens": {
+        "english": "Sim Screens",
+        "khmer": "អេក្រង់ការពិសោធន៍ក្លែងធ្វើ"
+      },
+      "a11y.simScreen": {
+        "english": "Sim Screen",
+        "khmer": "អេក្រង់ការពិសោធន៍ក្លែងធ្វើ"
+      },
+      "a11y.screenNamePattern": {
+        "english": "{{name}} Screen",
+        "khmer": "អេក្រង់ {{name}}"
+      },
+      "a11y.goToScreenPattern": {
+        "english": "Go to {{name}} Screen.",
+        "khmer": "ទៅកាន់អេក្រង់ {{name}}។"
+      },
+      "a11y.screenSimPattern": {
+        "english": "{{screenName}}, {{simName}}",
+        "khmer": "{{screenName}}, {{simName}}"
+      },
+      "a11y.home": {
+        "english": "Home",
+        "khmer": "ទំព័រដើម"
+      },
+      "a11y.homeScreenDescriptionPattern": {
+        "english": "Welcome to {{name}}. It has {{screens}} interactive screens that you can explore.",
+        "khmer": "សូមស្វាគមន៍មកកាន់ {{name}}។ វាមាន {{screens}} អេក្រង់អន្តរកម្មដែលអ្នកអាចស្វែងយល់បាន។"
+      },
+      "a11y.homeScreenHint": {
+        "english": "Choose a screen to start exploring.",
+        "khmer": "ជ្រើសរើសអេក្រង់មួយដើម្បីចាប់ផ្តើមស្វែងយល់។"
+      },
+      "a11y.homeScreenIntroPattern": {
+        "english": "{{description}} {{hint}}",
+        "khmer": "{{description}} {{hint}}"
+      },
+      "a11y.homeScreenButtonDetailsPattern": {
+        "english": "On {{name}}, {{screenHint}}",
+        "khmer": "នៅលើ {{name}}, {{screenHint}}"
+      },
+      "a11y.simResources": {
+        "english": "Sim Resources",
+        "khmer": "ធនធានការពិសោធន៍ក្លែងធ្វើ"
+      },
+      "a11y.soundToggle.alert.simSoundOn": {
+        "english": "Audio Features on.",
+        "khmer": "បានបើកមុខងារសំឡេង។"
+      },
+      "a11y.soundToggle.alert.simSoundOff": {
+        "english": "Audio Features off.",
+        "khmer": "បានបិទមុខងារសំឡេង។"
+      },
+      "a11y.soundToggle.label": {
+        "english": "All Audio",
+        "khmer": "សំឡេងទាំងអស់"
+      },
+      "a11y.checkOutShortcuts": {
+        "english": "If needed, checkout keyboard shortcuts under Sim Resources.",
+        "khmer": "ប្រសិនបើចាំបាច់ សូមពិនិត្យមើលផ្លូវកាត់ក្តារចុចនៅក្រោម \"ធនធានការពិសោធន៍ក្លែងធ្វើ\"។"
+      },
+      "a11y.phetMenu": {
+        "english": "PhET Menu",
+        "khmer": "ម៉ឺនុយ PhET"
+      },
+      "a11y.updateDialog.accessibleName": {
+        "english": "Update Status",
+        "khmer": "ស្ថានភាពបច្ចុប្បន្នភាព"
+      },
+      "a11y.updateDialog.noThanksButton.accessibleContextResponse": {
+        "english": "Continuing with current version.",
+        "khmer": "បន្តប្រើប្រាស់កំណែបច្ចុប្បន្ន។"
+      },
+      "a11y.preferences.tabs.labelledDescriptionPattern": {
+        "english": "{{label}}, {{description}}",
+        "khmer": "{{label}}, {{description}}"
+      },
+      "a11y.preferences.tabs.tabResponsePattern": {
+        "english": "Preferences, {{title}} Tab",
+        "khmer": "ចំណង់ចំណូលចិត្ត ផ្ទាំង {{title}}"
+      },
+      "a11y.preferences.tabs.visual.interactiveHighlights.enabledAlert": {
+        "english": "Highlights on for all input.",
+        "khmer": "បានបើកការរំលេចពណ៌សម្រាប់គ្រប់ការបញ្ជាទាំងអស់។"
+      },
+      "a11y.preferences.tabs.visual.interactiveHighlights.disabledAlert": {
+        "english": "Highlights off for mouse and touch.",
+        "khmer": "បានបិទការរំលេចពណ៌សម្រាប់កណ្ដុរ និងការប៉ះបញ្ជា។"
+      },
+      "a11y.preferences.tabs.audio.sounds.soundsOn": {
+        "english": "Sounds on.",
+        "khmer": "បានបើកសំឡេង។"
+      },
+      "a11y.preferences.tabs.audio.sounds.soundsOff": {
+        "english": "Sounds off.",
+        "khmer": "បានបិទសំឡេង។"
+      },
+      "a11y.preferences.tabs.audio.sounds.extraSounds.extraSoundsOn": {
+        "english": "Extra Sounds on.",
+        "khmer": "បានបើកសំឡេងបន្ថែម។"
+      },
+      "a11y.preferences.tabs.audio.sounds.extraSounds.extraSoundsOff": {
+        "english": "Extra Sounds off.",
+        "khmer": "បានបិទសំឡេងបន្ថែម។"
+      },
+      "a11y.preferences.tabs.audio.voicing.title": {
+        "english": "Voicing",
+        "khmer": "ការអានជាសំឡេង"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingOn": {
+        "english": "Voicing on.",
+        "khmer": "បានបើកការអានជាសំឡេង។"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingOff": {
+        "english": "Voicing off.",
+        "khmer": "បានបិទការអានជាសំឡេង។"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingOffOnlyAvailableInEnglish": {
+        "english": "Voicing off. Only available in English.",
+        "khmer": "បានបិទការអានជាសំឡេង។ មុខងារនេះមានសម្រាប់តែភាសាអង់គ្លេសប៉ុណ្ណោះ។"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingToolbar.title": {
+        "english": "Toolbar",
+        "khmer": "របារឧបករណ៍"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingToolbar.toolbarAdded": {
+        "english": "Toolbar added to sim.",
+        "khmer": "បានបន្ថែមរបារឧបករណ៍ទៅការពិសោធន៍ក្លែងធ្វើ។"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingToolbar.toolbarRemoved": {
+        "english": "Toolbar removed.",
+        "khmer": "បានដករទរបារឧបករណ៍ចេញ។"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.title": {
+        "english": "Sim Voicing Options",
+        "khmer": "ជម្រើសអានសំឡេងការពិសោធន៍ក្លែងធ្វើ"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.description": {
+        "english": "Choose details you want voiced as you interact.",
+        "khmer": "ជ្រើសរើសព័ត៌មានលម្អិតដែលអ្នកចង់ឱ្យអានជាសំឡេងនៅពេលអ្នកធ្វើអន្តរកម្ម។"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.label": {
+        "english": "Voice object details and changes",
+        "khmer": "អានសំឡេងព័ត៌មានលម្អិត និងបម្រែបម្រួលរបស់វត្ថុ"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.enabledAlert": {
+        "english": "Voicing object details and changes.",
+        "khmer": "កំពុងអានសំឡេងព័ត៌មានលម្អិត និងបម្រែបម្រួលរបស់វត្ថុ។"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.disabledAlert": {
+        "english": "Object details and changes muted.",
+        "khmer": "បានបិទសំឡេងព័ត៌មានលម្អិត និងបម្រែបម្រួលរបស់វត្ថុ។"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.label": {
+        "english": "Voice surrounding context changes",
+        "khmer": "អានសំឡេងបម្រែបម្រួលបរិបទជុំវិញ"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.enabledAlert": {
+        "english": "Voicing surrounding context changes.",
+        "khmer": "កំពុងអានសំឡេងបម្រែបម្រួលបរិបទជុំវិញ។"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.disabledAlert": {
+        "english": "Surrounding context changes muted.",
+        "khmer": "បានបិទសំឡេងបម្រែបម្រួលបរិបទជុំវិញ។"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.label": {
+        "english": "Voice helpful hints",
+        "khmer": "អានសំឡេងព័ត៌មានជំនួយមានប្រយោជន៍"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.enabledAlert": {
+        "english": "Voicing extra help.",
+        "khmer": "កំពុងអានសំឡេងជំនួយបន្ថែម។"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.disabledAlert": {
+        "english": "Extra help muted.",
+        "khmer": "បានបិទសំឡេងជំនួយបន្ថែម។"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.title": {
+        "english": "Customize Voice",
+        "khmer": "កែសម្រួលសំឡេង"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.expandedAlert": {
+        "english": "expanded",
+        "khmer": "បានពង្រីក"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.collapsedAlert": {
+        "english": "collapsed",
+        "khmer": "បានបង្រួម"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.variablesPattern": {
+        "english": "{{value}}x",
+        "khmer": "{{value}}x"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.writtenVariablesPattern": {
+        "english": "{{value}} times",
+        "khmer": "{{value}} ដង"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.voice.title": {
+        "english": "Voice",
+        "khmer": "សំឡេង"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.voice.titlePattern": {
+        "english": "Voice: {{value}}",
+        "khmer": "សំឡេង៖ {{value}}"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.voice.noVoicesAvailable": {
+        "english": "No voices available",
+        "khmer": "មិនមានសំឡេងដែលអាចប្រើបានទេ"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.title": {
+        "english": "Rate",
+        "khmer": "ល្បឿន"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.labelString": {
+        "english": "Voice Rate",
+        "khmer": "ល្បឿនសំឡេង"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.low": {
+        "english": "in low range",
+        "khmer": "ក្នុងកម្រិតយឺត"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.normal": {
+        "english": "in normal range",
+        "khmer": "ក្នុងកម្រិតធម្មតា"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.aboveNormal": {
+        "english": "above normal range",
+        "khmer": "លើសកម្រិតធម្មតា"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.high": {
+        "english": "in high range",
+        "khmer": "ក្នុងកម្រិតលឿន"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.voiceRateNormal": {
+        "english": "normal",
+        "khmer": "ធម្មតា"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.pitch.title": {
+        "english": "Pitch",
+        "khmer": "កម្រិតទឹកដមសំឡេង (Pitch)"
+      },
+      "a11y.preferences.tabs.input.gestureControl.enabledAlert": {
+        "english": "Custom taps and swipes on.",
+        "khmer": "បានបើកការចុច និងអូសតាមការកំណត់។"
+      },
+      "a11y.preferences.tabs.input.gestureControl.disabledAlert": {
+        "english": "Custom taps and swipes off.",
+        "khmer": "បានបិទការចុច និងអូសតាមការកំណត់។"
+      },
+      "a11y.preferences.tabs.localization.languageSelection.languageChangeResponsePattern": {
+        "english": "On-screen text now in {{language}}.",
+        "khmer": "អត្ថបទលើអេក្រង់ឥឡូវនេះជាភាសា {{language}}។"
+      },
+      "a11y.voicingToolbar.title": {
+        "english": "Toolbar",
+        "khmer": "របារឧបករណ៍"
+      },
+      "a11y.voicingToolbar.openToolbar": {
+        "english": "Open Toolbar",
+        "khmer": "បើករបារឧបករណ៍"
+      },
+      "a11y.voicingToolbar.closeToolbar": {
+        "english": "Close Toolbar",
+        "khmer": "បិទរបារឧបករណ៍"
+      },
+      "a11y.voicingToolbar.hideToolbar": {
+        "english": "Hide Toolbar",
+        "khmer": "លាក់របារឧបករណ៍"
+      },
+      "a11y.voicingToolbar.showToolbar": {
+        "english": "Show Toolbar",
+        "khmer": "បង្ហាញរបារឧបករណ៍"
+      },
+      "a11y.voicingToolbar.toolbarShown": {
+        "english": "Toolbar Shown.",
+        "khmer": "បានបង្ហាញរបារឧបករណ៍។"
+      },
+      "a11y.voicingToolbar.toolbarHidden": {
+        "english": "Toolbar hidden.",
+        "khmer": "បានលាក់របារឧបករណ៍។"
+      },
+      "a11y.voicingToolbar.voicing.title": {
+        "english": "Sim Voicing",
+        "khmer": "ការអានសំឡេងការពិសោធន៍ក្លែងធ្វើ"
+      },
+      "a11y.voicingToolbar.voicing.quickInfo": {
+        "english": "Quick Info",
+        "khmer": "ព័ត៌មានរហ័ស"
+      },
+      "a11y.voicingToolbar.voicing.playOverviewLabel": {
+        "english": "Play Overview",
+        "khmer": "ចាក់ទិដ្ឋភាពទូទៅ"
+      },
+      "a11y.voicingToolbar.voicing.playDetailsLabel": {
+        "english": "Play Details",
+        "khmer": "ចាក់សេចក្តីលម្អិត"
+      },
+      "a11y.voicingToolbar.voicing.playHintLabel": {
+        "english": "Play Hint",
+        "khmer": "ចាក់ព័ត៌មានជំនួយ"
+      },
+      "a11y.voicingToolbar.voicing.overviewLabel": {
+        "english": "Overview",
+        "khmer": "ទិដ្ឋភាពទូទៅ"
+      },
+      "a11y.voicingToolbar.voicing.detailsLabel": {
+        "english": "Details",
+        "khmer": "សេចក្តីលម្អិត"
+      },
+      "a11y.voicingToolbar.voicing.hintLabel": {
+        "english": "Hint",
+        "khmer": "ព័ត៌មានជំនួយ"
+      },
+      "a11y.voicingToolbar.voicing.simVoicingOnAlert": {
+        "english": "Sim Voicing on.",
+        "khmer": "បានបើកការអានសំឡេងការពិសោធន៍ក្លែងធ្វើ។"
+      },
+      "a11y.voicingToolbar.voicing.simVoicingOffAlert": {
+        "english": "Sim Voicing off.",
+        "khmer": "បានបិទការអានសំឡេងការពិសោធន៍ក្លែងធ្វើ។"
+      }
+    },
+    "mean-share-and-balance": {
+      "mean-share-and-balance.title": {
+        "english": "Mean: Share and Balance",
+        "khmer": "មធ្យមភាគ៖ ការចែករំលែក និងតុល្យភាព"
+      },
+      "screen.levelOut": {
+        "english": "Level Out",
+        "khmer": "ធ្វើឱ្យស្មើ"
+      },
+      "screen.distribute": {
+        "english": "Distribute",
+        "khmer": "បែងចែក"
+      },
+      "screen.fairShare": {
+        "english": "Fair Share",
+        "khmer": "ការចែកស្មើគ្នា"
+      },
+      "screen.balancePoint": {
+        "english": "Balance Point",
+        "khmer": "ចំណុចតុល្យភាព"
+      },
+      "predictMean": {
+        "english": "Predict Mean",
+        "khmer": "ទស្សទាយមធ្យមភាគ"
+      },
+      "mean": {
+        "english": "Mean",
+        "khmer": "មធ្យមភាគ"
+      },
+      "tickMarks": {
+        "english": "Tick Marks",
+        "khmer": "គំនូសរង្វាស់"
+      },
+      "sync": {
+        "english": "Sync",
+        "khmer": "ធ្វើសមកាលកម្ម"
+      },
+      "collect": {
+        "english": "Collect",
+        "khmer": "ប្រមូល"
+      },
+      "share": {
+        "english": "Share",
+        "khmer": "ចែករំលែក"
+      },
+      "numberOfCups": {
+        "english": "Number of Cups",
+        "khmer": "ចំនួនកែវ"
+      },
+      "introQuestion": {
+        "english": "What is the average amount of water per container?",
+        "khmer": "តើបរិមាណទឹកជាមធ្យមក្នុងមួយប្រអប់/ធុងផ្ទុកមានចំនួនប៉ុន្មាន?"
+      },
+      "distributeQuestion": {
+        "english": "What is the average number of candy bars per person?",
+        "khmer": "តើស្ករគ្រាប់បន្ទះជាមធ្យមក្នុងមនុស្សម្នាក់មានចំនួនប៉ុន្មានបន្ទះ?"
+      },
+      "fairShareQuestion": {
+        "english": "What is the average number of apples per person?",
+        "khmer": "តើផ្លែប៉ោមជាមធ្យមក្នុងមនុស្សម្នាក់មានចំនួនប៉ុន្មានផ្លែ?"
+      },
+      "numberOfPeople": {
+        "english": "Number of People",
+        "khmer": "ចំនួនមនុស្ស"
+      },
+      "meanEqualSignPattern": {
+        "english": "mean {{equals}} ",
+        "khmer": "មធ្យមភាគ {{equals}} "
+      },
+      "totalCandyBarsPattern": {
+        "english": "Total = {{total}} candy {{measurement}}",
+        "khmer": "សរុប = {{total}} ស្ករគ្រាប់ {{measurement}}"
+      },
+      "bar": {
+        "english": "bar",
+        "khmer": "បន្ទះ"
+      },
+      "bars": {
+        "english": "bars",
+        "khmer": "បន្ទះ"
+      },
+      "totalApplesPattern": {
+        "english": "Total = {{total}} {{measurement}}",
+        "khmer": "សរុប = {{total}} {{measurement}}"
+      },
+      "apple": {
+        "english": "apple",
+        "khmer": "ផ្លែ"
+      },
+      "apples": {
+        "english": "apples",
+        "khmer": "ផ្លែ"
+      },
+      "totalDistancePattern": {
+        "english": "Total Distance = {{total}} m",
+        "khmer": "ចម្ងាយសរុប = {{total}} m"
+      },
+      "balancePointQuestion": {
+        "english": "What is the average kick distance?",
+        "khmer": "តើចម្ងាយទាត់ជាមធ្យមមានប្រវែងប៉ុន្មាន?"
+      },
+      "numberOfBalls": {
+        "english": "Number of Balls",
+        "khmer": "ចំនួនបាល់"
+      },
+      "check": {
+        "english": "Check",
+        "khmer": "ពិនិត្យ"
+      },
+      "reset": {
+        "english": "Reset",
+        "khmer": "កំណត់ឡើងវិញ"
+      },
+      "remainderPattern": {
+        "english": "{{wholeNumber}}, remainder {{remainder}}",
+        "khmer": "{{wholeNumber}}, សំណល់ {{remainder}}"
+      },
+      "total": {
+        "english": "Total",
+        "khmer": "សរុប"
+      },
+      "keyboardHelpDialog.balancePointScreen.sliderControlHeading": {
+        "english": "Fulcrum Balance Point",
+        "khmer": "ចំណុចតុល្យភាពរបស់ទ្រនល់"
+      },
+      "keyboardHelpDialog.balancePointScreen.sliderVerb": {
+        "english": "Move",
+        "khmer": "រំកិល"
+      },
+      "keyboardHelpDialog.balancePointScreen.sliderNoun": {
+        "english": "fulcrum triangle",
+        "khmer": "ត្រីកោណទ្រនល់"
+      },
+      "keyboardHelpDialog.balancePointScreen.numberSpinnerHeading": {
+        "english": "Number of People",
+        "khmer": "ចំនួនមនុស្ស"
+      },
+      "keyboardHelpDialog.numberSpinnerVerb": {
+        "english": "Change",
+        "khmer": "ផ្លាស់ប្តូរ"
+      },
+      "keyboardHelpDialog.numberSpinnerNoun": {
+        "english": "number",
+        "khmer": "លេខ"
+      },
+      "keyboardHelpDialog.fairShareScreen.numberSpinnerHeading": {
+        "english": "Number of Apples or People",
+        "khmer": "ចំនួនផ្លែប៉ោម ឬចំនួនមនុស្ស"
+      },
+      "keyboardHelpDialog.distributeScreen.numberSpinnerHeading": {
+        "english": "Number of Candy Bars or People",
+        "khmer": "ចំនួនស្ករគ្រាប់បន្ទះ ឬចំនួនមនុស្ស"
+      },
+      "keyboardHelpDialog.distributeScreen.sliderControlHeading": {
+        "english": "Predict Mean",
+        "khmer": "ទស្សទាយមធ្យមភាគ"
+      },
+      "keyboardHelpDialog.distributeScreen.sliderControlNoun": {
+        "english": "prediction mark",
+        "khmer": "គំនូសទស្សទាយ"
+      },
+      "keyboardHelpDialog.distributeScreen.grabOrReleaseItemHeading": {
+        "english": "Notepad Candy Bar",
+        "khmer": "ស្ករគ្រាប់បន្ទះលើសៀវភៅកត់ត្រា"
+      },
+      "keyboardHelpDialog.distributeScreen.grabOrReleaseItem": {
+        "english": "candy bar",
+        "khmer": "ស្ករគ្រាប់បន្ទះ"
+      },
+      "keyboardHelpDialog.distributeScreen.moveHeading": {
+        "english": "Move Notepad Candy Bar",
+        "khmer": "រំកិលស្ករគ្រាប់បន្ទះលើសៀវភៅកត់ត្រា"
+      },
+      "keyboardHelpDialog.distributeScreen.moveDescription": {
+        "english": "Move grabbed candy bar",
+        "khmer": "រំកិលស្ករគ្រាប់បន្ទះដែលបានចាប់យក"
+      },
+      "keyboardHelpDialog.levelOutScreen.numberSpinnerHeading": {
+        "english": "Number of Cups",
+        "khmer": "ចំនួនកែវ"
+      },
+      "keyboardHelpDialog.levelOutScreen.sliderControlHeading": {
+        "english": "Water Level or Mean Prediction",
+        "khmer": "កម្រិតទឹក ឬការទស្សទាយមធ្យមភាគ"
+      },
+      "keyboardHelpDialog.levelOutScreen.sliderControlNoun": {
+        "english": "water or prediction mark",
+        "khmer": "កម្រិតទឹក ឬគំនូសទស្សទាយ"
+      },
+      "a11y.predictBalancePoint": {
+        "english": "Predict Balance Point",
+        "khmer": "ទស្សទាយចំណុចតុល្យភាព"
+      },
+      "a11y.observeBalancePoint": {
+        "english": "Observe Balance Point",
+        "khmer": "សង្កេតចំណុចតុល្យភាព"
+      },
+      "a11y.totalDistance": {
+        "english": "Total Distance",
+        "khmer": "ចម្ងាយសរុប"
+      },
+      "a11y.findBalancePoint": {
+        "english": "Find Balance Point",
+        "khmer": "រកចំណុចតុល្យភាព"
+      },
+      "a11y.predictionMark": {
+        "english": "Prediction Mark",
+        "khmer": "គំនូសទស្សទាយ"
+      },
+      "a11y.info": {
+        "english": "Info",
+        "khmer": "ព័ត៌មាន"
+      },
+      "a11y.totalNumberPattern": {
+        "english": "Total Number of {{snack}}",
+        "khmer": "ចំនួនសរុបនៃ {{snack}}"
+      },
+      "a11y.apples": {
+        "english": "Apples",
+        "khmer": "ផ្លែប៉ោម"
+      },
+      "a11y.candyBars": {
+        "english": "Candy Bars",
+        "khmer": "ស្ករគ្រាប់បន្ទះ"
+      },
+      "a11y.personSnackPattern": {
+        "english": "Person {{index}} {{snack}}",
+        "khmer": "មនុស្ស {{index}} {{snack}}"
+      },
+      "a11y.pipeFlow": {
+        "english": "Pipe Flow",
+        "khmer": "លំហូរទុយោ"
+      },
+      "a11y.cupWaterLevelPattern": {
+        "english": "Cup {{index}} Water Level",
+        "khmer": "កម្រិតទឹកក្នុងកែវ {{index}}"
+      },
+      "a11y.checkBalance": {
+        "english": "Check Balance",
+        "khmer": "ពិនិត្យតុល្យភាព"
+      },
+      "a11y.resetPillars": {
+        "english": "Reset Pillars",
+        "khmer": "កំណត់សសរឡើងវិញ"
+      },
+      "a11y.noCandyBarsToGrab": {
+        "english": "No candy bars to grab",
+        "khmer": "គ្មានស្ករគ្រាប់បន្ទះសម្រាប់ចាប់យកទេ"
+      },
+      "a11y.sortingCandyBarPattern": {
+        "english": "Stack {{currentStack}} of {{totalStacks}}, Move Top of {{stackHeight}} Candy Bars",
+        "khmer": "ជង់ទី {{currentStack}} នៃ {{totalStacks}}, រំកិលស្ករគ្រាប់បន្ទះខាងលើបង្អស់នៃកម្ពស់ {{stackHeight}}"
+      },
+      "a11y.selectingCandyBarPattern": {
+        "english": "Stack {{currentStack}} of {{totalStacks}}, Top of {{stackHeight}} Candy Bars",
+        "khmer": "ជង់ទី {{currentStack}} នៃ {{totalStacks}}, ស្ករគ្រាប់បន្ទះខាងលើបង្អស់នៃកម្ពស់ {{stackHeight}}"
+      },
+      "a11y.closePipe": {
+        "english": "Close Pipe",
+        "khmer": "បិទទុយោ"
+      },
+      "a11y.openPipe": {
+        "english": "Open Pipe",
+        "khmer": "បើកទុយោ"
+      },
+      "a11y.fulcrumOptions": {
+        "english": "Fulcrum Options",
+        "khmer": "ជម្រើសទ្រនល់"
+      },
+      "a11y.appleActions": {
+        "english": "Apple Actions",
+        "khmer": "សកម្មភាពផ្លែប៉ោម"
+      }
+    },
+    "scenery-phet": {
+      "scenery-phet.title": {
+        "english": "scenery-phet demo",
+        "khmer": "ការបង្ហាញគំរូ scenery-phet"
+      },
+      "screen.buttons": {
+        "english": "Buttons",
+        "khmer": "ប៊ូតុង"
+      },
+      "screen.components": {
+        "english": "Components",
+        "khmer": "សមាសភាគ"
+      },
+      "screen.dialogs": {
+        "english": "Dialogs",
+        "khmer": "ផ្ទាំងប្រអប់សារ"
+      },
+      "screen.keyboard": {
+        "english": "Keyboard",
+        "khmer": "ក្តារចុច"
+      },
+      "screen.sliders": {
+        "english": "Sliders",
+        "khmer": "គ្រាប់រំកិល"
+      },
+      "screen.spinners": {
+        "english": "Spinners",
+        "khmer": "ឧបករណ៍បង្កើនបន្ថយតម្លៃ (Spinners)"
+      },
+      "WavelengthSlider.pattern_0wavelength_1units": {
+        "english": "{0} {1}",
+        "khmer": "{0} {1}"
+      },
+      "frequencyUnitsPattern": {
+        "english": "{{frequency}} THz",
+        "khmer": "{{frequency}} THz"
+      },
+      "stopwatchValueUnitsPattern": {
+        "english": "{{value}} {{units}}",
+        "khmer": "{{value}} {{units}}"
+      },
+      "units_nm": {
+        "english": "nm",
+        "khmer": "nm"
+      },
+      "shortCircuit": {
+        "english": "Short circuit!",
+        "khmer": "ឆ្លងចរន្តអគ្គិសនី!"
+      },
+      "heat": {
+        "english": "Heat",
+        "khmer": "កម្តៅ"
+      },
+      "cool": {
+        "english": "Cool",
+        "khmer": "ធ្វើឱ្យត្រជាក់"
+      },
+      "key.tab": {
+        "english": "Tab",
+        "khmer": "Tab"
+      },
+      "key.shift": {
+        "english": "Shift",
+        "khmer": "Shift"
+      },
+      "key.alt": {
+        "english": "Alt",
+        "khmer": "Alt"
+      },
+      "key.option": {
+        "english": "Option",
+        "khmer": "Option"
+      },
+      "key.capsLock": {
+        "english": "Caps Lock",
+        "khmer": "Caps Lock"
+      },
+      "key.enter": {
+        "english": "Enter",
+        "khmer": "Enter"
+      },
+      "key.return": {
+        "english": "Return",
+        "khmer": "Return"
+      },
+      "key.backspace": {
+        "english": "Backspace",
+        "khmer": "Backspace"
+      },
+      "key.delete": {
+        "english": "Delete",
+        "khmer": "Delete"
+      },
+      "key.space": {
+        "english": "Space",
+        "khmer": "Space"
+      },
+      "key.esc": {
+        "english": "Esc",
+        "khmer": "Esc"
+      },
+      "key.fn": {
+        "english": "Fn",
+        "khmer": "Fn"
+      },
+      "key.pageUp": {
+        "english": "Pg Up",
+        "khmer": "Pg Up"
+      },
+      "key.pageDown": {
+        "english": "Pg Dn",
+        "khmer": "Pg Dn"
+      },
+      "key.home": {
+        "english": "Home",
+        "khmer": "Home"
+      },
+      "key.end": {
+        "english": "End",
+        "khmer": "End"
+      },
+      "key.a": {
+        "english": "A",
+        "khmer": "A"
+      },
+      "key.b": {
+        "english": "B",
+        "khmer": "B"
+      },
+      "key.c": {
+        "english": "C",
+        "khmer": "C"
+      },
+      "key.d": {
+        "english": "D",
+        "khmer": "D"
+      },
+      "key.e": {
+        "english": "E",
+        "khmer": "E"
+      },
+      "key.f": {
+        "english": "F",
+        "khmer": "F"
+      },
+      "key.g": {
+        "english": "G",
+        "khmer": "G"
+      },
+      "key.h": {
+        "english": "H",
+        "khmer": "H"
+      },
+      "key.i": {
+        "english": "I",
+        "khmer": "I"
+      },
+      "key.j": {
+        "english": "J",
+        "khmer": "J"
+      },
+      "key.k": {
+        "english": "K",
+        "khmer": "K"
+      },
+      "key.l": {
+        "english": "L",
+        "khmer": "L"
+      },
+      "key.m": {
+        "english": "M",
+        "khmer": "M"
+      },
+      "key.n": {
+        "english": "N",
+        "khmer": "N"
+      },
+      "key.o": {
+        "english": "O",
+        "khmer": "O"
+      },
+      "key.p": {
+        "english": "P",
+        "khmer": "P"
+      },
+      "key.q": {
+        "english": "Q",
+        "khmer": "Q"
+      },
+      "key.r": {
+        "english": "R",
+        "khmer": "R"
+      },
+      "key.s": {
+        "english": "S",
+        "khmer": "S"
+      },
+      "key.t": {
+        "english": "T",
+        "khmer": "T"
+      },
+      "key.u": {
+        "english": "U",
+        "khmer": "U"
+      },
+      "key.v": {
+        "english": "V",
+        "khmer": "V"
+      },
+      "key.w": {
+        "english": "W",
+        "khmer": "W"
+      },
+      "key.x": {
+        "english": "X",
+        "khmer": "X"
+      },
+      "key.y": {
+        "english": "Y",
+        "khmer": "Y"
+      },
+      "key.z": {
+        "english": "Z",
+        "khmer": "Z"
+      },
+      "key.zero": {
+        "english": "0",
+        "khmer": "0"
+      },
+      "key.one": {
+        "english": "1",
+        "khmer": "1"
+      },
+      "key.two": {
+        "english": "2",
+        "khmer": "2"
+      },
+      "key.three": {
+        "english": "3",
+        "khmer": "3"
+      },
+      "key.four": {
+        "english": "4",
+        "khmer": "4"
+      },
+      "key.five": {
+        "english": "5",
+        "khmer": "5"
+      },
+      "key.six": {
+        "english": "6",
+        "khmer": "6"
+      },
+      "key.seven": {
+        "english": "7",
+        "khmer": "7"
+      },
+      "key.eight": {
+        "english": "8",
+        "khmer": "8"
+      },
+      "key.nine": {
+        "english": "9",
+        "khmer": "9"
+      },
+      "key.toGrabOrRelease": {
+        "english": "to <b>Grab</b> or <b>Release</b>",
+        "khmer": "ដើម្បី ចាប់យក ឬ លែង"
+      },
+      "webglWarning.title": {
+        "english": "Running with low graphics quality",
+        "khmer": "កំពុងដំណើរការជាមួយគុណភាពក្រាហ្វិកទាប"
+      },
+      "webglWarning.body": {
+        "english": "WebGL is not enabled or not available. Click to learn more.",
+        "khmer": "WebGL មិនត្រូវបានបើកដំណើរការ ឬមិនអាចប្រើប្រាស់បានទេ។ ចុចដើម្បីស្វែងយល់បន្ថែម។"
+      },
+      "webglWarning.contextLossFailure": {
+        "english": "Sorry, a graphics error has occurred.",
+        "khmer": "សូមអភ័យទោស មានកំហុសក្រាហ្វិកបានកើតឡើង។"
+      },
+      "webglWarning.contextLossReload": {
+        "english": "Reload",
+        "khmer": "ផ្ទុកឡើងវិញ"
+      },
+      "webglWarning.ie11StencilBody": {
+        "english": "Update Internet Explorer by installing recommended Windows Update patches.",
+        "khmer": "ធ្វើបច្ចុប្បន្នភាព Internet Explorer ដោយដំឡើងកញ្ចប់កែប្រែដែលបានណែនាំពី Windows Update។"
+      },
+      "keyboardHelpDialog.sliderControls": {
+        "english": "Slider Controls",
+        "khmer": "ការបញ្ជាគ្រាប់រំកិល"
+      },
+      "keyboardHelpDialog.adjustSlider": {
+        "english": "Adjust slider",
+        "khmer": "សារ៉េគ្រាប់រំកិល"
+      },
+      "keyboardHelpDialog.spinnerControls": {
+        "english": "Spinner Controls",
+        "khmer": "ការបញ្ជាឧបករណ៍បង្កើនបន្ថយតម្លៃ"
+      },
+      "keyboardHelpDialog.adjustInSmallerSteps": {
+        "english": "Adjust in smaller steps",
+        "khmer": "សារ៉េតាមជំហានតូចៗ"
+      },
+      "keyboardHelpDialog.adjustInLargerSteps": {
+        "english": "Adjust in larger steps",
+        "khmer": "សារ៉េតាមជំហានធំៗ"
+      },
+      "keyboardHelpDialog.jumpToMinimum": {
+        "english": "Jump to minimum",
+        "khmer": "លោតទៅកម្រិតអប្បបរមា"
+      },
+      "keyboardHelpDialog.jumpToMaximum": {
+        "english": "Jump to maximum",
+        "khmer": "លោតទៅកម្រិតអតិបរមា"
+      },
+      "keyboardHelpDialog.adjust": {
+        "english": "Adjust",
+        "khmer": "សារ៉េ"
+      },
+      "keyboardHelpDialog.slider": {
+        "english": "slider",
+        "khmer": "គ្រាប់រំកិល"
+      },
+      "keyboardHelpDialog.spinner": {
+        "english": "spinner",
+        "khmer": "ឧបករណ៍បង្កើនបន្ថយតម្លៃ"
+      },
+      "keyboardHelpDialog.heatCoolControls": {
+        "english": "Heat/Cool Controls",
+        "khmer": "ការបញ្ជាកម្តៅ/ភាពត្រជាក់"
+      },
+      "keyboardHelpDialog.maximumHeat": {
+        "english": "Maximum heat",
+        "khmer": "កម្តៅអតិបរមា"
+      },
+      "keyboardHelpDialog.maximumCool": {
+        "english": "Maximum cool",
+        "khmer": "ភាពត្រជាក់អតិបរមា"
+      },
+      "keyboardHelpDialog.heatCoolOff": {
+        "english": "Off",
+        "khmer": "បិទ"
+      },
+      "keyboardHelpDialog.verbSliderPattern": {
+        "english": "{{verb}} {{slider}}",
+        "khmer": "{{verb}} {{slider}}"
+      },
+      "keyboardHelpDialog.verbInSmallerStepsPattern": {
+        "english": "{{verb}} in smaller steps",
+        "khmer": "{{verb}} តាមជំហានតូចៗ"
+      },
+      "keyboardHelpDialog.verbInLargerStepsPattern": {
+        "english": "{{verb}} in larger steps",
+        "khmer": "{{verb}} តាមជំហានធំៗ"
+      },
+      "keyboardHelpDialog.minimum": {
+        "english": "minimum",
+        "khmer": "អប្បបរមា"
+      },
+      "keyboardHelpDialog.maximum": {
+        "english": "maximum",
+        "khmer": "អតិបរមា"
+      },
+      "keyboardHelpDialog.jumpToMinimumPattern": {
+        "english": "Jump to {{minimum}}",
+        "khmer": "លោតទៅ {{minimum}}"
+      },
+      "keyboardHelpDialog.jumpToMaximumPattern": {
+        "english": "Jump to {{maximum}}",
+        "khmer": "លោតទៅ {{maximum}}"
+      },
+      "keyboardHelpDialog.generalNavigation": {
+        "english": "General Navigation",
+        "khmer": "ការរុករកទូទៅ"
+      },
+      "keyboardHelpDialog.basicActions": {
+        "english": "Basic Actions",
+        "khmer": "សកម្មភាពមូលដ្ឋាន"
+      },
+      "keyboardHelpDialog.moveToNextItem": {
+        "english": "Move to next item",
+        "khmer": "រំកិលទៅធាតុបន្ទាប់"
+      },
+      "keyboardHelpDialog.moveToPreviousItem": {
+        "english": "Move to previous item",
+        "khmer": "រំកិលទៅធាតុមុន"
+      },
+      "keyboardHelpDialog.moveToNextItemOrGroup": {
+        "english": "Move to next item or group",
+        "khmer": "រំកិលទៅធាតុ ឬក្រុមបន្ទាប់"
+      },
+      "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+        "english": "Move to previous item or group",
+        "khmer": "រំកិលទៅធាតុ ឬក្រុមមុន"
+      },
+      "keyboardHelpDialog.pressButtons": {
+        "english": "Press buttons",
+        "khmer": "ចុចប៊ូតុង"
+      },
+      "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+        "english": "Move between items in a group",
+        "khmer": "រំកិលចន្លោះធាតុក្នុងក្រុមមួយ"
+      },
+      "keyboardHelpDialog.setValuesInKeypad": {
+        "english": "Set values within keypad",
+        "khmer": "កំណត់តម្លៃក្នុងបន្ទះលេខ"
+      },
+      "keyboardHelpDialog.resetAll": {
+        "english": "Reset All",
+        "khmer": "កំណត់ឡើងវិញទាំងអស់"
+      },
+      "keyboardHelpDialog.exitADialog": {
+        "english": "Exit a dialog",
+        "khmer": "ចាកចេញពីផ្ទាំងប្រអប់សារ"
+      },
+      "keyboardHelpDialog.toggleCheckboxes": {
+        "english": "Toggle checkboxes",
+        "khmer": "បិទ/បើកប្រអប់ធីក"
+      },
+      "keyboardHelpDialog.or": {
+        "english": "or",
+        "khmer": "ឬ"
+      },
+      "keyboardHelpDialog.hyphen": {
+        "english": "-",
+        "khmer": "-"
+      },
+      "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+        "english": "Grab or Release {{thing}}",
+        "khmer": "ចាប់យក ឬលែង {{thing}}"
+      },
+      "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+        "english": "Grab or release {{thing}}",
+        "khmer": "ចាប់យក ឬលែង {{thing}}"
+      },
+      "keyboardHelpDialog.comboBox.chooseAThingPattern": {
+        "english": "Choose a {{thingTitle}}",
+        "khmer": "ជ្រើសរើស {{thingTitle}}"
+      },
+      "keyboardHelpDialog.comboBox.headingString": {
+        "english": "Change Choice",
+        "khmer": "ផ្លាស់ប្តូរជម្រើស"
+      },
+      "keyboardHelpDialog.comboBox.popUpListPattern": {
+        "english": "1. Show {{thingPlural}}",
+        "khmer": "1. បង្ហាញ {{thingPlural}}"
+      },
+      "keyboardHelpDialog.comboBox.moveThroughPattern": {
+        "english": "2. Move through {{thingPlural}}",
+        "khmer": "2. រំកិលឆ្លងកាត់ {{thingPlural}}"
+      },
+      "keyboardHelpDialog.comboBox.chooseNewPattern": {
+        "english": "3. Change {{thingSingular}}",
+        "khmer": "3. ផ្លាស់ប្តូរ {{thingSingular}}"
+      },
+      "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+        "english": "4. Close without changing",
+        "khmer": "4. បិទដោយមិនផ្លាស់ប្តូរ"
+      },
+      "keyboardHelpDialog.comboBox.options": {
+        "english": "choices",
+        "khmer": "ជម្រើស"
+      },
+      "keyboardHelpDialog.comboBox.option": {
+        "english": "choice",
+        "khmer": "ជម្រើស"
+      },
+      "keyboardHelpDialog.moveDraggableItems": {
+        "english": "Move Draggable Items",
+        "khmer": "រំកិលធាតុដែលអាចអូសបាន"
+      },
+      "keyboardHelpDialog.move": {
+        "english": "Move",
+        "khmer": "រំកិល"
+      },
+      "keyboardHelpDialog.moveSlower": {
+        "english": "Move slower",
+        "khmer": "រំកិលយឺតៗ"
+      },
+      "keyboardHelpDialog.faucetControls.faucetControls": {
+        "english": "Faucet Controls",
+        "khmer": "ការបញ្ជាក្បាលរ៉ូប៊ីណេ"
+      },
+      "keyboardHelpDialog.faucetControls.adjustFaucetFlow": {
+        "english": "Adjust faucet flow",
+        "khmer": "សារ៉េកម្លាំងទឹកចេញពីក្បាលរ៉ូប៊ីណេ"
+      },
+      "keyboardHelpDialog.faucetControls.adjustInSmallerSteps": {
+        "english": "Adjust in smaller steps",
+        "khmer": "សារ៉េតាមជំហានតូចៗ"
+      },
+      "keyboardHelpDialog.faucetControls.adjustInLargerSteps": {
+        "english": "Adjust in larger steps",
+        "khmer": "សារ៉េតាមជំហានធំៗ"
+      },
+      "keyboardHelpDialog.faucetControls.closeFaucet": {
+        "english": "Close faucet",
+        "khmer": "បិទក្បាលរ៉ូប៊ីណេ"
+      },
+      "keyboardHelpDialog.faucetControls.openFaucetFully": {
+        "english": "Open faucet fully",
+        "khmer": "បើកក្បាលរ៉ូប៊ីណេពេញទំហឹង"
+      },
+      "keyboardHelpDialog.faucetControls.openFaucetBriefly": {
+        "english": "Open faucet briefly",
+        "khmer": "បើកក្បាលរ៉ូប៊ីណេមួយភ្លែត"
+      },
+      "keyboardHelpDialog.timingControls.timingControls": {
+        "english": "Time Controls",
+        "khmer": "ការបញ្ជាពេលវេលា"
+      },
+      "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+        "english": "Pause or play action",
+        "khmer": "ផ្អាក ឬបន្តសកម្មភាព"
+      },
+      "speed.normal": {
+        "english": "Normal",
+        "khmer": "ធម្មតា"
+      },
+      "speed.slow": {
+        "english": "Slow",
+        "khmer": "យឺត"
+      },
+      "speed.fast": {
+        "english": "Fast",
+        "khmer": "លឿន"
+      },
+      "symbol.ohms": {
+        "english": "Ω",
+        "khmer": "Ω"
+      },
+      "symbol.resistivity": {
+        "english": "ρ",
+        "khmer": "ρ"
+      },
+      "comboBoxDisplay.valueUnits": {
+        "english": "{{value}} {{units}}",
+        "khmer": "{{value}} {{units}}"
+      },
+      "wavelengthNMValuePattern": {
+        "english": "{0} nm",
+        "khmer": "{0} nm"
+      },
+      "measuringTapeReadoutPattern": {
+        "english": "{{distance}} {{units}}",
+        "khmer": "{{distance}} {{units}}"
+      },
+      "wavelength": {
+        "english": "Wavelength",
+        "khmer": "ប្រវែងរលក"
+      },
+      "rulerCapitalized": {
+        "english": "Ruler",
+        "khmer": "បន្ទាត់"
+      },
+      "ruler": {
+        "english": "Ruler",
+        "khmer": "បន្ទាត់"
+      },
+      "zero": {
+        "english": "zero",
+        "khmer": "សូន្យ"
+      },
+      "one": {
+        "english": "one",
+        "khmer": "មួយ"
+      },
+      "two": {
+        "english": "two",
+        "khmer": "ពីរ"
+      },
+      "three": {
+        "english": "three",
+        "khmer": "បី"
+      },
+      "four": {
+        "english": "four",
+        "khmer": "បួន"
+      },
+      "five": {
+        "english": "five",
+        "khmer": "ប្រាំ"
+      },
+      "six": {
+        "english": "six",
+        "khmer": "ប្រាំមួយ"
+      },
+      "seven": {
+        "english": "seven",
+        "khmer": "ប្រាំពីរ"
+      },
+      "eight": {
+        "english": "eight",
+        "khmer": "ប្រាំបី"
+      },
+      "nine": {
+        "english": "nine",
+        "khmer": "ប្រាំបួន"
+      },
+      "ten": {
+        "english": "ten",
+        "khmer": "ដប់"
+      },
+      "offScaleIndicator.pointsOffScale": {
+        "english": "Points<br>off scale!",
+        "khmer": "ចំណុច\n\n\n\nហួសមាត្រដ្ឋាន!"
+      },
+      "ResetAllButton.name": {
+        "english": "Reset All",
+        "khmer": "កំណត់ឡើងវិញទាំងអស់"
+      },
+      "SoundToggleButton.name": {
+        "english": "Toggle Sound",
+        "khmer": "បិទ/បើកសំឡេង"
+      },
+      "scientificNotation": {
+        "english": "{{value}} × {{base}}<sup>{{exponent}}</sup>",
+        "khmer": "{{value}} × {{base}}{{exponent}}"
+      },
+      "units.centimeters.symbol": {
+        "english": "cm",
+        "khmer": "cm"
+      },
+      "units.centimeters.symbolPattern": {
+        "english": "{{value}} cm",
+        "khmer": "{{value}} cm"
+      },
+      "units.centimetersSquared.symbol": {
+        "english": "cm<sup>2</sup>",
+        "khmer": "cm2"
+      },
+      "units.centimetersSquared.symbolPattern": {
+        "english": "{{value}} cm<sup>2</sup>",
+        "khmer": "{{value}} cm2"
+      },
+      "units.hertz.symbol": {
+        "english": "Hz",
+        "khmer": "Hz"
+      },
+      "units.hertz.symbolPattern": {
+        "english": "{{value}} Hz",
+        "khmer": "{{value}} Hz"
+      },
+      "units.percent.symbol": {
+        "english": "%",
+        "khmer": "%"
+      },
+      "units.percent.symbolPattern": {
+        "english": "{{value}}%",
+        "khmer": "{{value}}%"
+      },
+      "units.seconds.symbol": {
+        "english": "s",
+        "khmer": "s"
+      },
+      "units.seconds.symbolPattern": {
+        "english": "{{value}} s",
+        "khmer": "{{value}} s"
+      },
+      "units.milliseconds.symbol": {
+        "english": "ms",
+        "khmer": "ms"
+      },
+      "units.milliseconds.symbolPattern": {
+        "english": "{{value}} ms",
+        "khmer": "{{value}} ms"
+      },
+      "units.microseconds.symbol": {
+        "english": "μs",
+        "khmer": "μs"
+      },
+      "units.microseconds.symbolPattern": {
+        "english": "{{value}} μs",
+        "khmer": "{{value}} μs"
+      },
+      "units.femtoseconds.symbol": {
+        "english": "fs",
+        "khmer": "fs"
+      },
+      "units.femtoseconds.symbolPattern": {
+        "english": "{{value}} fs",
+        "khmer": "{{value}} fs"
+      },
+      "units.amperes.symbol": {
+        "english": "A",
+        "khmer": "A"
+      },
+      "units.amperes.symbolPattern": {
+        "english": "{{value}} A",
+        "khmer": "{{value}} A"
+      },
+      "units.volts.symbol": {
+        "english": "V",
+        "khmer": "V"
+      },
+      "units.volts.symbolPattern": {
+        "english": "{{value}} V",
+        "khmer": "{{value}} V"
+      },
+      "units.newtons.symbol": {
+        "english": "N",
+        "khmer": "N"
+      },
+      "units.newtons.symbolPattern": {
+        "english": "{{value}} N",
+        "khmer": "{{value}} N"
+      },
+      "units.watts.symbol": {
+        "english": "W",
+        "khmer": "W"
+      },
+      "units.watts.symbolPattern": {
+        "english": "{{value}} W",
+        "khmer": "{{value}} W"
+      },
+      "units.joules.symbol": {
+        "english": "J",
+        "khmer": "J"
+      },
+      "units.joules.symbolPattern": {
+        "english": "{{value}} J",
+        "khmer": "{{value}} J"
+      },
+      "units.kelvin.symbol": {
+        "english": "K",
+        "khmer": "K"
+      },
+      "units.kelvin.symbolPattern": {
+        "english": "{{value}} K",
+        "khmer": "{{value}} K"
+      },
+      "units.degrees.symbol": {
+        "english": "°",
+        "khmer": "°"
+      },
+      "units.degrees.symbolPattern": {
+        "english": "{{value}} °",
+        "khmer": "{{value}} °"
+      },
+      "units.degreesCelsius.symbol": {
+        "english": "°C",
+        "khmer": "°C"
+      },
+      "units.degreesCelsius.symbolPattern": {
+        "english": "{{value}} °C",
+        "khmer": "{{value}} °C"
+      },
+      "units.degreesFahrenheit.symbol": {
+        "english": "°F",
+        "khmer": "°F"
+      },
+      "units.degreesFahrenheit.symbolPattern": {
+        "english": "{{value}} °F",
+        "khmer": "{{value}} °F"
+      },
+      "units.liters.symbol": {
+        "english": "L",
+        "khmer": "L"
+      },
+      "units.liters.symbolPattern": {
+        "english": "{{value}} L",
+        "khmer": "{{value}} L"
+      },
+      "units.litersPerSecond.symbol": {
+        "english": "L/s",
+        "khmer": "L/s"
+      },
+      "units.litersPerSecond.symbolPattern": {
+        "english": "{{value}} L/s",
+        "khmer": "{{value}} L/s"
+      },
+      "units.meters.symbol": {
+        "english": "m",
+        "khmer": "m"
+      },
+      "units.meters.symbolPattern": {
+        "english": "{{value}} m",
+        "khmer": "{{value}} m"
+      },
+      "units.metersPerSecond.symbol": {
+        "english": "m/s",
+        "khmer": "m/s"
+      },
+      "units.metersPerSecond.symbolPattern": {
+        "english": "{{value}} m/s",
+        "khmer": "{{value}} m/s"
+      },
+      "units.metersPerSecondSquared.symbol": {
+        "english": "m/s<sup>2</sup>",
+        "khmer": "m/s2"
+      },
+      "units.metersPerSecondSquared.symbolPattern": {
+        "english": "{{value}} m/s<sup>2</sup>",
+        "khmer": "{{value}} m/s2"
+      },
+      "units.metersPerSecondPerSecond.symbol": {
+        "english": "m/s/s",
+        "khmer": "m/s/s"
+      },
+      "units.metersPerSecondPerSecond.symbolPattern": {
+        "english": "{{value}} m/s/s",
+        "khmer": "{{value}} m/s/s"
+      },
+      "units.grams.symbol": {
+        "english": "g",
+        "khmer": "g"
+      },
+      "units.grams.symbolPattern": {
+        "english": "{{value}} g",
+        "khmer": "{{value}} g"
+      },
+      "units.kilograms.symbol": {
+        "english": "kg",
+        "khmer": "kg"
+      },
+      "units.kilograms.symbolPattern": {
+        "english": "{{value}} kg",
+        "khmer": "{{value}} kg"
+      },
+      "units.kilogramsPerLiter.symbol": {
+        "english": "kg/L",
+        "khmer": "kg/L"
+      },
+      "units.kilogramsPerLiter.symbolPattern": {
+        "english": "{{value}} kg/L",
+        "khmer": "{{value}} kg/L"
+      },
+      "units.kilogramsPerCubicMeter.symbol": {
+        "english": "kg/m<sup>3</sup>",
+        "khmer": "kg/m3"
+      },
+      "units.kilogramsPerCubicMeter.symbolPattern": {
+        "english": "{{value}} kg/m<sup>3</sup>",
+        "khmer": "{{value}} kg/m3"
+      },
+      "units.kilopascals.symbol": {
+        "english": "kPa",
+        "khmer": "kPa"
+      },
+      "units.kilopascals.symbolPattern": {
+        "english": "{{value}} kPa",
+        "khmer": "{{value}} kPa"
+      },
+      "units.nanometers.symbol": {
+        "english": "nm",
+        "khmer": "nm"
+      },
+      "units.nanometers.symbolPattern": {
+        "english": "{{value}} nm",
+        "khmer": "{{value}} nm"
+      },
+      "units.nanometersPerPicosecond.symbol": {
+        "english": "nm/ps",
+        "khmer": "nm/ps"
+      },
+      "units.nanometersPerPicosecond.symbolPattern": {
+        "english": "{{value}} nm/ps",
+        "khmer": "{{value}} nm/ps"
+      },
+      "units.kilometersPerSecond.symbol": {
+        "english": "km/s",
+        "khmer": "km/s"
+      },
+      "units.kilometersPerSecond.symbolPattern": {
+        "english": "{{value}} km/s",
+        "khmer": "{{value}} km/s"
+      },
+      "units.picometers.symbol": {
+        "english": "pm",
+        "khmer": "pm"
+      },
+      "units.picometers.symbolPattern": {
+        "english": "{{value}} pm",
+        "khmer": "{{value}} pm"
+      },
+      "units.picometersPerSecond.symbol": {
+        "english": "pm/s",
+        "khmer": "pm/s"
+      },
+      "units.picometersPerSecond.symbolPattern": {
+        "english": "{{value}} pm/s",
+        "khmer": "{{value}} pm/s"
+      },
+      "units.picometersPerSecondSquared.symbol": {
+        "english": "pm/s<sup>2</sup>",
+        "khmer": "pm/s2"
+      },
+      "units.picometersPerSecondSquared.symbolPattern": {
+        "english": "{{value}} pm/s<sup>2</sup>",
+        "khmer": "{{value}} pm/s2"
+      },
+      "units.nanoseconds.symbol": {
+        "english": "ns",
+        "khmer": "ns"
+      },
+      "units.nanoseconds.symbolPattern": {
+        "english": "{{value}} ns",
+        "khmer": "{{value}} ns"
+      },
+      "units.picoseconds.symbol": {
+        "english": "ps",
+        "khmer": "ps"
+      },
+      "units.picoseconds.symbolPattern": {
+        "english": "{{value}} ps",
+        "khmer": "{{value}} ps"
+      },
+      "units.molarAbsorptivity.symbol": {
+        "english": "1/(cm*M)",
+        "khmer": "1/(cm*M)"
+      },
+      "units.molarAbsorptivity.symbolPattern": {
+        "english": "{{value}} 1/(cm*M)",
+        "khmer": "{{value}} 1/(cm*M)"
+      },
+      "units.ohms.symbol": {
+        "english": "Ω",
+        "khmer": "Ω"
+      },
+      "units.ohms.symbolPattern": {
+        "english": "{{value}} Ω",
+        "khmer": "{{value}} Ω"
+      },
+      "units.ohmCentimeters.symbol": {
+        "english": "Ω·cm",
+        "khmer": "Ω·cm"
+      },
+      "units.ohmCentimeters.symbolPattern": {
+        "english": "{{value}} Ω·cm",
+        "khmer": "{{value}} Ω·cm"
+      },
+      "units.millivolts.symbol": {
+        "english": "mV",
+        "khmer": "mV"
+      },
+      "units.millivolts.symbolPattern": {
+        "english": "{{value}} mV",
+        "khmer": "{{value}} mV"
+      },
+      "units.milliamperes.symbol": {
+        "english": "mA",
+        "khmer": "mA"
+      },
+      "units.milliamperes.symbolPattern": {
+        "english": "{{value}} mA",
+        "khmer": "{{value}} mA"
+      },
+      "units.microamperes.symbol": {
+        "english": "μA",
+        "khmer": "μA"
+      },
+      "units.microamperes.symbolPattern": {
+        "english": "{{value}} μA",
+        "khmer": "{{value}} μA"
+      },
+      "units.farads.symbol": {
+        "english": "F",
+        "khmer": "F"
+      },
+      "units.farads.symbolPattern": {
+        "english": "{{value}} F",
+        "khmer": "{{value}} F"
+      },
+      "units.webers.symbol": {
+        "english": "Wb",
+        "khmer": "Wb"
+      },
+      "units.webers.symbolPattern": {
+        "english": "{{value}} Wb",
+        "khmer": "{{value}} Wb"
+      },
+      "units.gauss.symbol": {
+        "english": "G",
+        "khmer": "G"
+      },
+      "units.gauss.symbolPattern": {
+        "english": "{{value}} G",
+        "khmer": "{{value}} G"
+      },
+      "units.pascalSeconds.symbol": {
+        "english": "Pa·s",
+        "khmer": "Pa·s"
+      },
+      "units.pascalSeconds.symbolPattern": {
+        "english": "{{value}} Pa·s",
+        "khmer": "{{value}} Pa·s"
+      },
+      "units.newtonsPerMeter.symbol": {
+        "english": "N/m",
+        "khmer": "N/m"
+      },
+      "units.newtonsPerMeter.symbolPattern": {
+        "english": "{{value}} N/m",
+        "khmer": "{{value}} N/m"
+      },
+      "units.newtonSecondsPerMeter.symbol": {
+        "english": "N·s/m",
+        "khmer": "N·s/m"
+      },
+      "units.newtonSecondsPerMeter.symbolPattern": {
+        "english": "{{value}} N·s/m",
+        "khmer": "{{value}} N·s/m"
+      },
+      "units.moles.symbol": {
+        "english": "mol",
+        "khmer": "mol"
+      },
+      "units.moles.symbolPattern": {
+        "english": "{{value}} mol",
+        "khmer": "{{value}} mol"
+      },
+      "units.molesPerSecond.symbol": {
+        "english": "mol/s",
+        "khmer": "mol/s"
+      },
+      "units.molesPerSecond.symbolPattern": {
+        "english": "{{value}} mol/s",
+        "khmer": "{{value}} mol/s"
+      },
+      "units.molar.symbol": {
+        "english": "M",
+        "khmer": "M"
+      },
+      "units.molar.symbolPattern": {
+        "english": "{{value}} M",
+        "khmer": "{{value}} M"
+      },
+      "units.molesPerLiter.symbol": {
+        "english": "mol/L",
+        "khmer": "mol/L"
+      },
+      "units.molesPerLiter.symbolPattern": {
+        "english": "{{value}} mol/L",
+        "khmer": "{{value}} mol/L"
+      },
+      "units.radians.symbol": {
+        "english": "radians",
+        "khmer": "រ៉ាដ្យង់"
+      },
+      "units.radians.symbolPattern": {
+        "english": "{{value}} radians",
+        "khmer": "{{value}} រ៉ាដ្យង់"
+      },
+      "units.radiansPerSecond.symbol": {
+        "english": "radians/s",
+        "khmer": "រ៉ាដ្យង់/s"
+      },
+      "units.radiansPerSecond.symbolPattern": {
+        "english": "{{value}} radians/s",
+        "khmer": "{{value}} រ៉ាដ្យង់/s"
+      },
+      "units.radiansPerSecondSquared.symbol": {
+        "english": "radians/s<sup>2</sup>",
+        "khmer": "រ៉ាដ្យង់/s2"
+      },
+      "units.radiansPerSecondSquared.symbolPattern": {
+        "english": "{{value}} radians/s<sup>2</sup>",
+        "khmer": "{{value}} រ៉ាដ្យង់/s2"
+      },
+      "units.years.symbol": {
+        "english": "years",
+        "khmer": "ឆ្នាំ"
+      },
+      "units.years.symbolPattern": {
+        "english": "{{value}} years",
+        "khmer": "{{value}} ឆ្នាំ"
+      },
+      "units.astronomicalUnits.symbol": {
+        "english": "AU",
+        "khmer": "AU"
+      },
+      "units.astronomicalUnits.symbolPattern": {
+        "english": "{{value}} AU",
+        "khmer": "{{value}} AU"
+      },
+      "units.astronomicalUnitsSquared.symbol": {
+        "english": "AU<sup>2</sup>",
+        "khmer": "AU2"
+      },
+      "units.astronomicalUnitsSquared.symbolPattern": {
+        "english": "{{value}} AU<sup>2</sup>",
+        "khmer": "{{value}} AU2"
+      },
+      "units.viewCoordinatesPerSecond.symbol": {
+        "english": "view-coordinates/s",
+        "khmer": "កូអរដោណេទិដ្ឋភាព/s"
+      },
+      "units.viewCoordinatesPerSecond.symbolPattern": {
+        "english": "{{value}} view-coordinates/s",
+        "khmer": "{{value}} កូអរដោណេទិដ្ឋភាព/s"
+      },
+      "units.atomicMassUnits.symbol": {
+        "english": "AMU",
+        "khmer": "AMU"
+      },
+      "units.atomicMassUnits.symbolPattern": {
+        "english": "{{value}} AMU",
+        "khmer": "{{value}} AMU"
+      },
+      "units.coulombs.symbol": {
+        "english": "C",
+        "khmer": "C"
+      },
+      "units.coulombs.symbolPattern": {
+        "english": "{{value}} C",
+        "khmer": "{{value}} C"
+      },
+      "units.cubicMeters.symbol": {
+        "english": "m<sup>3</sup>",
+        "khmer": "m3"
+      },
+      "units.cubicMeters.symbolPattern": {
+        "english": "{{value}} m<sup>3</sup>",
+        "khmer": "{{value}} m3"
+      },
+      "units.cubicPicometers.symbol": {
+        "english": "pm<sup>3</sup>",
+        "khmer": "pm3"
+      },
+      "units.cubicPicometers.symbolPattern": {
+        "english": "{{value}} pm<sup>3</sup>",
+        "khmer": "{{value}} pm3"
+      },
+      "units.electronVolt.symbol": {
+        "english": "eV",
+        "khmer": "eV"
+      },
+      "units.electronVolt.symbolPattern": {
+        "english": "{{value}} eV",
+        "khmer": "{{value}} eV"
+      },
+      "units.millimeters.symbol": {
+        "english": "mm",
+        "khmer": "mm"
+      },
+      "units.millimeters.symbolPattern": {
+        "english": "{{value}} mm",
+        "khmer": "{{value}} mm"
+      },
+      "units.micrometers.symbol": {
+        "english": "μm",
+        "khmer": "μm"
+      },
+      "units.micrometers.symbolPattern": {
+        "english": "{{value}} μm",
+        "khmer": "{{value}} μm"
+      },
+      "units.particlesPerPicosecond.symbol": {
+        "english": "particles/ps",
+        "khmer": "ភាគល្អិត/ps"
+      },
+      "units.particlesPerPicosecond.symbolPattern": {
+        "english": "{{value}} particles/ps",
+        "khmer": "{{value}} ភាគល្អិត/ps"
+      },
+      "units.photonsPerSecond.symbol": {
+        "english": "photons/s",
+        "khmer": "ហ្វូតុង/s"
+      },
+      "units.photonsPerSecond.symbolPattern": {
+        "english": "{{value}} photons/s",
+        "khmer": "{{value}} ហ្វូតុង/s"
+      },
+      "units.revolutionsPerMinute.symbol": {
+        "english": "rpm",
+        "khmer": "rpm"
+      },
+      "units.revolutionsPerMinute.symbolPattern": {
+        "english": "{{value}} rpm",
+        "khmer": "{{value}} rpm"
+      },
+      "units.atmospheres.symbol": {
+        "english": "atm",
+        "khmer": "atm"
+      },
+      "units.atmospheres.symbolPattern": {
+        "english": "{{value}} atm",
+        "khmer": "{{value}} atm"
+      },
+      "units.kilogramMetersPerSecond.symbol": {
+        "english": "kg·m/s",
+        "khmer": "kg·m/s"
+      },
+      "units.kilogramMetersPerSecond.symbolPattern": {
+        "english": "{{value}} kg·m/s",
+        "khmer": "{{value}} kg·m/s"
+      },
+      "units.picometersPerPicosecond.symbol": {
+        "english": "pm/ps",
+        "khmer": "pm/ps"
+      },
+      "units.picometersPerPicosecond.symbolPattern": {
+        "english": "{{value}} pm/ps",
+        "khmer": "{{value}} pm/ps"
+      },
+      "units.electronMasses.symbol": {
+        "english": "m<sub>e</sub>",
+        "khmer": "me"
+      },
+      "units.electronMasses.symbolPattern": {
+        "english": "{{value}} m<sub>e</sub>",
+        "khmer": "{{value}} me"
+      },
+      "units.electronVolts.symbol": {
+        "english": "eV",
+        "khmer": "eV"
+      },
+      "units.electronVolts.symbolPattern": {
+        "english": "{{value}} eV",
+        "khmer": "{{value}} eV"
+      },
+      "units.electronVoltsPerNanometerSquared.symbol": {
+        "english": "eV/nm<sup>2</sup>",
+        "khmer": "eV/nm2"
+      },
+      "units.electronVoltsPerNanometerSquared.symbolPattern": {
+        "english": "{{value}} eV/nm<sup>2</sup>",
+        "khmer": "{{value}} eV/nm2"
+      },
+      "units.inverseFemtoseconds.symbol": {
+        "english": "fs<sup>-1</sup>",
+        "khmer": "fs-1"
+      },
+      "units.inverseFemtoseconds.symbolPattern": {
+        "english": "{{value}} fs<sup>-1</sup>",
+        "khmer": "{{value}} fs-1"
+      },
+      "units.inverseNanometers.symbol": {
+        "english": "nm<sup>-1</sup>",
+        "khmer": "nm-1"
+      },
+      "units.inverseNanometers.symbolPattern": {
+        "english": "{{value}} nm<sup>-1</sup>",
+        "khmer": "{{value}} nm-1"
+      },
+      "units.inverseSquareRootNanometers.symbol": {
+        "english": "nm<sup>-1/2</sup>",
+        "khmer": "nm-1/2"
+      },
+      "units.inverseSquareRootNanometers.symbolPattern": {
+        "english": "{{value}} nm<sup>-1/2</sup>",
+        "khmer": "{{value}} nm-1/2"
+      },
+      "units.voltsPerNanometer.symbol": {
+        "english": "V/nm",
+        "khmer": "V/nm"
+      },
+      "units.voltsPerNanometer.symbolPattern": {
+        "english": "{{value}} V/nm",
+        "khmer": "{{value}} V/nm"
+      },
+      "a11y.simSection.screenSummary.multiScreenIntro": {
+        "english": "The {{screen}} changes as you play with it. It has a Play Area and a Control Area.",
+        "khmer": "{{screen}} នឹងផ្លាស់ប្តូរនៅពេលអ្នកលេង/ដំណើរការវា។ វាមានតំបន់លេង និងតំបន់បញ្ជា។"
+      },
+      "a11y.simSection.screenSummary.singleScreenIntroPattern": {
+        "english": "{{sim}} is an interactive sim. It changes as you play with it. It has a Play Area and a Control Area.",
+        "khmer": "{{sim}} គឺជាការពិសោធន៍ក្លែងធ្វើអន្តរកម្ម។ វាផ្លាស់ប្តូរនៅពេលអ្នកលេង/ដំណើរការវា ហើយវាមានតំបន់លេង និងតំបន់បញ្ជា។"
+      },
+      "a11y.simSection.screenSummary.keyboardShortcutsHint": {
+        "english": "This screen has custom interactions. If needed, check out keyboard shortcuts under Sim Resources.",
+        "khmer": "អេក្រង់នេះមានអន្តរកម្មតាមការកំណត់។ ប្រសិនបើចាំបាច់ សូមពិនិត្យមើលផ្លូវកាត់ក្តារចុចនៅក្រោម \"ធនធានការពិសោធន៍ក្លែងធ្វើ\"។"
+      },
+      "a11y.simSection.playArea": {
+        "english": "Play Area",
+        "khmer": "តំបន់លេង"
+      },
+      "a11y.simSection.controlArea": {
+        "english": "Control Area",
+        "khmer": "តំបន់បញ្ជា"
+      },
+      "a11y.resetAll.accessibleName": {
+        "english": "Reset All",
+        "khmer": "កំណត់ឡើងវិញទាំងអស់"
+      },
+      "a11y.resetAll.accessibleContextResponse": {
+        "english": "Everything reset.",
+        "khmer": "បានកំណត់ឡើងវិញទាំងអស់។"
+      },
+      "a11y.soundToggle.label": {
+        "english": "Mute Sound",
+        "khmer": "បិទសំឡេង"
+      },
+      "a11y.soundToggle.alert.simSoundOn": {
+        "english": "Sim sound on.",
+        "khmer": "បានបើកសំឡេងការពិសោធន៍ក្លែងធ្វើ។"
+      },
+      "a11y.soundToggle.alert.simSoundOff": {
+        "english": "Sim sound off.",
+        "khmer": "បានបិទសំឡេងការពិសោធន៍ក្លែងធ្វើ។"
+      },
+      "a11y.keyboardHelpDialog.general.setValuesInKeypadDescription": {
+        "english": "Set values within keypad using number keys 0-9.",
+        "khmer": "កំណត់តម្លៃក្នុងបន្ទះលេខដោយប្រើគ្រាប់ចុចលេខ 0-9។"
+      },
+      "a11y.keyboardHelpDialog.comboBox.popUpListPattern": {
+        "english": "Show {{thingPlural}}",
+        "khmer": "បង្ហាញ {{thingPlural}}"
+      },
+      "a11y.keyboardHelpDialog.comboBox.moveThroughPattern": {
+        "english": "Move through {{thingPlural}}",
+        "khmer": "រំកិលឆ្លងកាត់ {{thingPlural}}"
+      },
+      "a11y.keyboardHelpDialog.comboBox.chooseNewPattern": {
+        "english": "Change {{thingSingular}}",
+        "khmer": "ផ្លាស់ប្តូរ {{thingSingular}}"
+      },
+      "a11y.keyboardHelpDialog.comboBox.closeWithoutChanging": {
+        "english": "Close without changing",
+        "khmer": "បិទដោយមិនផ្លាស់ប្តូរ"
+      },
+      "a11y.keyboard.helpPatterns.actionStatement": {
+        "english": "{ $action }.",
+        "khmer": "{ $action }។"
+      },
+      "a11y.keyboard.helpPatterns.actionWithKeys": {
+        "english": "{ $action } with { $keys }.",
+        "khmer": "{ $action } ដោយប្រើ { $keys }។"
+      },
+      "a11y.keyboard.helpPatterns.modifiersPlusKeys": {
+        "english": "{ $modifiers } plus { $keys }",
+        "khmer": "{ $modifiers } បូកនឹង { $keys }"
+      },
+      "a11y.keyboard.helpPatterns.singleKey": {
+        "english": "{ $keyLabel } key",
+        "khmer": "គ្រាប់ចុច { $keyLabel }"
+      },
+      "a11y.keyboard.helpPatterns.multipleKeys": {
+        "english": "{ $keyLabels } keys",
+        "khmer": "គ្រាប់ចុច { $keyLabels }"
+      },
+      "a11y.keyboard.helpPatterns.twoItemList": {
+        "english": "{ $first } or { $second }",
+        "khmer": "{ $first } ឬ { $second }"
+      },
+      "a11y.keyboard.helpPatterns.serialList": {
+        "english": "{ $items }, or { $last }",
+        "khmer": "{ $items } ឬ { $last }"
+      },
+      "a11y.keyboard.helpPatterns.listSeparatorPattern": {
+        "english": "{ $first }, { $second }",
+        "khmer": "{ $first }, {$second }"
+      },
+      "a11y.keyboard.helpPatterns.modifierSeparatorPattern": {
+        "english": "{ $first } plus { $second }",
+        "khmer": "{ $first } បូកនឹង { $second }"
+      },
+      "a11y.keyboard.key.leftArrow": {
+        "english": "Left Arrow",
+        "khmer": "សញ្ញាព្រួញឆ្វេង"
+      },
+      "a11y.keyboard.key.rightArrow": {
+        "english": "Right Arrow",
+        "khmer": "សញ្ញាព្រួញស្តាំ"
+      },
+      "a11y.keyboard.key.upArrow": {
+        "english": "Up Arrow",
+        "khmer": "សញ្ញាព្រួញឡើងលើ"
+      },
+      "a11y.keyboard.key.downArrow": {
+        "english": "Down Arrow",
+        "khmer": "សញ្ញាព្រួញចុះក្រោម"
+      },
+      "a11y.keyboard.key.pageUp": {
+        "english": "Page Up",
+        "khmer": "Page Up"
+      },
+      "a11y.keyboard.key.pageDown": {
+        "english": "Page Down",
+        "khmer": "Page Down"
+      },
+      "a11y.keyboard.key.escape": {
+        "english": "Escape",
+        "khmer": "Escape"
+      },
+      "a11y.keyboard.key.control": {
+        "english": "Control",
+        "khmer": "Control"
+      },
+      "a11y.keySets.arrowOrWASD": {
+        "english": "Arrow keys or W, A, S, or D letter keys",
+        "khmer": "គ្រាប់ចុចព្រួញ ឬគ្រាប់ចុចអក្សរ W, A, S ឬ D"
+      },
+      "a11y.keySets.arrow": {
+        "english": "Arrow keys",
+        "khmer": "គ្រាប់ចុចព្រួញ"
+      },
+      "a11y.keySets.leftRightOrUpDownArrows": {
+        "english": "Left and Right Arrow keys or Up and Down Arrow keys",
+        "khmer": "គ្រាប់ចុចព្រួញឆ្វេង និងស្តាំ ឬគ្រាប់ចុចព្រួញឡើងលើ និងចុះក្រោម"
+      },
+      "a11y.keySets.leftRightArrows": {
+        "english": "Left and Right Arrow keys",
+        "khmer": "គ្រាប់ចុចព្រួញឆ្វេង និងស្តាំ"
+      },
+      "a11y.keySets.leftOrRightArrows": {
+        "english": "Left or Right Arrow keys",
+        "khmer": "គ្រាប់ចុចព្រួញឆ្វេង ឬស្តាំ"
+      },
+      "a11y.keySets.upDownArrows": {
+        "english": "Up and Down Arrow keys",
+        "khmer": "គ្រាប់ចុចព្រួញឡើងលើ និងចុះក្រោម"
+      },
+      "a11y.keySets.upOrDownArrows": {
+        "english": "Up or Down Arrow keys",
+        "khmer": "គ្រាប់ចុចព្រួញឡើងលើ ឬចុះក្រោម"
+      },
+      "a11y.keySets.wasd": {
+        "english": "W, A, S, or D letter keys",
+        "khmer": "គ្រាប់ចុចអក្សរ W, A, S ឬ D"
+      },
+      "a11y.keySets.ad": {
+        "english": "A and D letter keys",
+        "khmer": "គ្រាប់ចុចអក្សរ A និង D"
+      },
+      "a11y.keySets.ws": {
+        "english": "W and S letter keys",
+        "khmer": "គ្រាប់ចុចអក្សរ W និង S"
+      },
+      "a11y.keySets.leftRightOrAD": {
+        "english": "Left and Right Arrow keys or A and D letter keys",
+        "khmer": "គ្រាប់ចុចព្រួញឆ្វេង និងស្តាំ ឬគ្រាប់ចុចអក្សរ A និង D"
+      },
+      "a11y.keySets.upDownOrWS": {
+        "english": "Up and Down Arrow keys or W and S letter keys",
+        "khmer": "គ្រាប់ចុចព្រួញឡើងលើ និងចុះក្រោម ឬគ្រាប់ចុចអក្សរ W និង S"
+      },
+      "a11y.eraserButton.accessibleName": {
+        "english": "Erase",
+        "khmer": "លុប"
+      },
+      "a11y.timerToggleButton.accessibleNameOn": {
+        "english": "Timer On",
+        "khmer": "បានបើកឧបករណ៍កំណត់ម៉ោង"
+      },
+      "a11y.timerToggleButton.accessibleNameOff": {
+        "english": "Timer Off",
+        "khmer": "បានបិទឧបករណ៍កំណត់ម៉ោង"
+      },
+      "a11y.playControlButton.play": {
+        "english": "Play",
+        "khmer": "ចាក់/ដំណើរការ"
+      },
+      "a11y.playControlButton.pause": {
+        "english": "Pause",
+        "khmer": "ផ្អាក"
+      },
+      "a11y.playControlButton.stop": {
+        "english": "Stop",
+        "khmer": "បញ្ឈប់"
+      },
+      "a11y.playPauseButton.playingAccessibleContextResponse": {
+        "english": "Sim playing.",
+        "khmer": "ការពិសោធន៍ក្លែងធ្វើកំពុងដំណើរការ។"
+      },
+      "a11y.playPauseButton.pausedAccessibleContextResponse": {
+        "english": "Sim paused.",
+        "khmer": "ការពិសោធន៍ក្លែងធ្វើត្រូវបានផ្អាក។"
+      },
+      "a11y.stepBackwardButton.accessibleName": {
+        "english": "Step Backward",
+        "khmer": "ថយក្រោយមួយជំហាន"
+      },
+      "a11y.stepBackwardButton.accessibleContextResponse": {
+        "english": "Stepping backward.",
+        "khmer": "កំពុងថយក្រោយមួយជំហាន។"
+      },
+      "a11y.stepForwardButton.accessibleName": {
+        "english": "Step Forward",
+        "khmer": "ទៅមុខមួយជំហាន"
+      },
+      "a11y.stepForwardButton.accessibleContextResponse": {
+        "english": "Stepping forward.",
+        "khmer": "កំពុងទៅមុខមួយជំហាន។"
+      },
+      "a11y.stepButton.playingDescription": {
+        "english": "Pause sim to step forward little by little.",
+        "khmer": "ផ្អាកការពិសោធន៍ក្លែងធ្វើ ដើម្បីបោះជំហានទៅមុខបន្តិចម្តងៗ។"
+      },
+      "a11y.stepButton.pausedDescription": {
+        "english": "Play sim to resume chosen speed.",
+        "khmer": "ចាក់/ដំណើរការការពិសោធន៍ក្លែងធ្វើ ដើម្បីបន្តល្បឿនដែលបានជ្រើសរើសឡើងវិញ។"
+      },
+      "a11y.timeControlNode.simSpeedDescription": {
+        "english": "For closer observations Play sim on slower speed.",
+        "khmer": "សម្រាប់ការសង្កេតកាន់តែដិតដល់ សូមដំណើរការការពិសោធន៍ក្លែងធ្វើក្នុងល្បឿនយឺតជាងមុន។"
+      },
+      "a11y.timeControlNode.accessibleHeading": {
+        "english": "Time Controls",
+        "khmer": "ការបញ្ជាពេលវេលា"
+      },
+      "a11y.timeControlNode.simSpeeds": {
+        "english": "Sim Speeds",
+        "khmer": "ល្បឿនការពិសោធន៍ក្លែងធ្វើ"
+      },
+      "a11y.playPauseStepButtonGroup.playingHelpText": {
+        "english": "Pause sim to step through little by little.",
+        "khmer": "ផ្អាកការពិសោធន៍ក្លែងធ្វើ ដើម្បីដំណើរការទៅមុខបន្តិចម្តងៗ។"
+      },
+      "a11y.playPauseStepButtonGroup.pausedHelpText": {
+        "english": "Step through little by little.",
+        "khmer": "ដំណើរការទៅមុខបន្តិចម្តងៗ។"
+      },
+      "a11y.restartButton.accessibleName": {
+        "english": "Restart",
+        "khmer": "ចាប់ផ្តើមឡើងវិញ"
+      },
+      "a11y.movementAlerter.down": {
+        "english": "down",
+        "khmer": "ចុះក្រោម"
+      },
+      "a11y.movementAlerter.left": {
+        "english": "left",
+        "khmer": "ទៅឆ្វេង"
+      },
+      "a11y.movementAlerter.right": {
+        "english": "right",
+        "khmer": "ទៅស្តាំ"
+      },
+      "a11y.movementAlerter.up": {
+        "english": "up",
+        "khmer": "ឡើងលើ"
+      },
+      "a11y.movementAlerter.upAndToTheRight": {
+        "english": "up and to the right",
+        "khmer": "ឡើងលើទៅស្តាំ"
+      },
+      "a11y.movementAlerter.upAndToTheLeft": {
+        "english": "up and to the left",
+        "khmer": "ឡើងលើទៅឆ្វេង"
+      },
+      "a11y.movementAlerter.downAndToTheRight": {
+        "english": "down and to the right",
+        "khmer": "ចុះក្រោមទៅស្តាំ"
+      },
+      "a11y.movementAlerter.downAndToTheLeft": {
+        "english": "down and to the left",
+        "khmer": "ចុះក្រោមទៅឆ្វេង"
+      },
+      "a11y.movementAlerter.leftBorderAlert": {
+        "english": "At left edge",
+        "khmer": "នៅគែមខាងឆ្វេង"
+      },
+      "a11y.movementAlerter.rightBorderAlert": {
+        "english": "At right edge",
+        "khmer": "នៅគែមខាងស្តាំ"
+      },
+      "a11y.movementAlerter.topBorderAlert": {
+        "english": "At top",
+        "khmer": "នៅខាងលើបង្អស់"
+      },
+      "a11y.movementAlerter.bottomBorderAlert": {
+        "english": "At bottom",
+        "khmer": "នៅខាងក្រោមបង្អស់"
+      },
+      "a11y.grabDrag.grabPattern": {
+        "english": "Grab {{objectToGrab}}",
+        "khmer": "ចាប់យក {{objectToGrab}}"
+      },
+      "a11y.grabDrag.movable": {
+        "english": "movable",
+        "khmer": "អាចរំកិលបាន"
+      },
+      "a11y.grabDrag.button": {
+        "english": "button",
+        "khmer": "ប៊ូតុង"
+      },
+      "a11y.grabDrag.defaultObjectToGrab": {
+        "english": "Object",
+        "khmer": "វត្ថុ"
+      },
+      "a11y.grabDrag.released": {
+        "english": "Released.",
+        "khmer": "បានលែង។"
+      },
+      "a11y.grabDrag.grabbed": {
+        "english": "Grabbed.",
+        "khmer": "បានចាប់យក។"
+      },
+      "a11y.grabDrag.gestureHelpTextPattern": {
+        "english": "Double tap and hold to drag {{objectToGrab}}. Lift finger to release.",
+        "khmer": "ចុចពីរដងជាប់គ្នាឱ្យជាប់ដើម្បីអូស {{objectToGrab}}។ ដកម្រាមដៃចេញដើម្បីលែង។"
+      },
+      "a11y.grabDrag.spaceToGrabOrRelease": {
+        "english": "Space to Grab or Release.",
+        "khmer": "ចុច Space ដើម្បីចាប់យក ឬលែង។"
+      },
+      "a11y.groupSort.sortable": {
+        "english": "sortable",
+        "khmer": "អាចតម្រៀបបាន"
+      },
+      "a11y.groupSort.navigable": {
+        "english": "navigable",
+        "khmer": "អាចរុករកបាន"
+      },
+      "a11y.groupSort.grabbedAccessibleObjectResponse": {
+        "english": "Grabbed.",
+        "khmer": "បានចាប់យក។"
+      },
+      "a11y.groupSort.releasedAccessibleObjectResponse": {
+        "english": "Released.",
+        "khmer": "បានលែង។"
+      },
+      "a11y.listItemPunctuation.semicolonPattern": {
+        "english": "{{content}};",
+        "khmer": "{{content}};"
+      },
+      "a11y.listItemPunctuation.commaPattern": {
+        "english": "{{content}},",
+        "khmer": "{{content}},"
+      },
+      "a11y.listItemPunctuation.periodPattern": {
+        "english": "{{content}}.",
+        "khmer": "{{content}}។"
+      },
+      "a11y.voicing.simSection.screenSummary.singleScreenIntroPattern": {
+        "english": "{{sim}} is an interactive sim. It changes as you play with it.",
+        "khmer": "{{sim}} គឺជាការពិសោធន៍ក្លែងធ្វើអន្តរកម្ម។ វាផ្លាស់ប្តូរនៅពេលអ្នកលេង/ដំណើរការវា។"
+      },
+      "a11y.voicing.grabDragHintPattern": {
+        "english": "Tap, hold, and drag to {{manipulation}}.",
+        "khmer": "ចុច ឱ្យជាប់ ហើយអូសដើម្បី {{manipulation}}។"
+      },
+      "a11y.voicing.grabbedAlert": {
+        "english": "Grabbed.",
+        "khmer": "បានចាប់យក។"
+      },
+      "a11y.voicing.draggableAlert": {
+        "english": "Draggable",
+        "khmer": "អាចអូសបាន"
+      },
+      "a11y.close": {
+        "english": "Close",
+        "khmer": "បិទ"
+      },
+      "a11y.zoomIn": {
+        "english": "Zoom In",
+        "khmer": "ពង្រីក"
+      },
+      "a11y.zoomOut": {
+        "english": "Zoom Out",
+        "khmer": "បង្រួម"
+      },
+      "a11y.measuringTape": {
+        "english": "Measuring Tape",
+        "khmer": "ខ្សែម៉ែត្រ"
+      },
+      "a11y.measuringTapeTip": {
+        "english": "Measuring Tape Tip",
+        "khmer": "ក្បាលខ្សែម៉ែត្រ"
+      },
+      "a11y.info": {
+        "english": "Info",
+        "khmer": "ព័ត៌មាន"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleUp": {
+        "english": "Points off scale up!",
+        "khmer": "ចំណុចហួសមាត្រដ្ឋានឡើងលើ!"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleDown": {
+        "english": "Points off scale down!",
+        "khmer": "ចំណុចហួសមាត្រដ្ឋានចុះក្រោម!"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleLeft": {
+        "english": "Points off scale to the left!",
+        "khmer": "ចំណុចហួសមាត្រដ្ឋានទៅឆ្វេង!"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleRight": {
+        "english": "Points off scale to the right!",
+        "khmer": "ចំណុចហួសមាត្រដ្ឋានទៅស្តាំ!"
+      },
+      "a11y.stopwatch.accessibleName": {
+        "english": "Stopwatch",
+        "khmer": "នាឡិកាវាស់ស្ទង់ពេល (Stopwatch)"
+      },
+      "a11y.stopwatch.accessibleHelpText": {
+        "english": "Measure elapsed time.",
+        "khmer": "វាស់ស្ទង់ពេលវេលាដែលកន្លងផុតទៅ។"
+      },
+      "a11y.stopwatch.units.seconds.seconds": {
+        "english": "seconds",
+        "khmer": "វិនាទី"
+      },
+      "a11y.stopwatch.units.seconds.pattern": {
+        "english": "{ $seconds } seconds",
+        "khmer": "{ $seconds } វិនាទី"
+      },
+      "a11y.stopwatch.units.minutesAndSeconds.pattern": {
+        "english": "{ $minutes ->\n  [one] { $minutes } minute\n  *[other] { $minutes } minutes\n} and { $seconds } seconds",
+        "khmer": "{ $minutes ->\n  [one] {$minutes } នាទី\n  *[other] { $minutes } នាទី\n} និង { $seconds } វិនាទី"
+      },
+      "a11y.stopwatch.units.valueUnits.pattern": {
+        "english": "{ $value } { $units }",
+        "khmer": "{ $value } {$units }"
+      },
+      "a11y.stopwatch.resetButton.accessibleName": {
+        "english": "Reset Stopwatch",
+        "khmer": "កំណត់នាឡិកាវាស់ស្ទង់ពេលឡើងវិញ"
+      },
+      "a11y.stopwatch.resetButton.accessibleContextResponse": {
+        "english": "Stopwatch reset.",
+        "khmer": "បានកំណត់នាឡិកាវាស់ស្ទង់ពេលឡើងវិញ។"
+      },
+      "a11y.stopwatch.playButton.accessibleName": {
+        "english": "Start Stopwatch",
+        "khmer": "ចាប់ផ្តើមនាឡិកាវាស់ស្ទង់ពេល"
+      },
+      "a11y.stopwatch.pauseButton.accessibleName": {
+        "english": "Pause Stopwatch",
+        "khmer": "ផ្អាកនាឡិកាវាស់ស្ទង់ពេល"
+      },
+      "a11y.negativeNumber": {
+        "english": "negative { $value }",
+        "khmer": "ដក { $value }"
+      },
+      "a11y.scientificNotation": {
+        "english": "{ $value } times ${ $base } to the { $exponent } power",
+        "khmer": "{ $value } គុណនឹង ${ $base } ស្វ័យគុណ { $exponent }"
+      },
+      "a11y.units.centimeters.pattern": {
+        "english": "{ $value ->\n  [one] { $value } centimeter\n  *[other] { $value } centimeters\n}",
+        "khmer": "{ $value ->\n  [one] { $value } សង់ទីម៉ែត្រ\n  *[other] { $value } សង់ទីម៉ែត្រ\n}"
+      },
+      "a11y.units.centimetersSquared.pattern": {
+        "english": "{ $value ->\n  [one] { $value } square centimeter\n  *[other] { $value } square centimeters\n}",
+        "khmer": "{ $value ->\n  [one] { $value } សង់ទីម៉ែត្រការ៉េ\n  *[other] { $value } សង់ទីម៉ែត្រការ៉េ\n}"
+      },
+      "a11y.units.hertz.pattern": {
+        "english": "{ $value } hertz",
+        "khmer": "{ $value } ហឺត"
+      },
+      "a11y.units.percent.pattern": {
+        "english": "{ $value } percent",
+        "khmer": "{ $value } ភាគរយ"
+      },
+      "a11y.units.seconds.pattern": {
+        "english": "{ $value ->\n  [one] { $value } second\n  *[other] { $value } seconds\n}",
+        "khmer": "{ $value ->\n  [one] { $value } វិនាទី\n  *[other] { $value } វិនាទី\n}"
+      },
+      "a11y.units.milliseconds.pattern": {
+        "english": "{ $value ->\n  [one] { $value } millisecond\n  *[other] { $value } milliseconds\n}",
+        "khmer": "{ $value ->\n  [one] { $value } មីលីវិនាទី\n  *[other] { $value } មីលីវិនាទី\n}"
+      },
+      "a11y.units.microseconds.pattern": {
+        "english": "{ $value ->\n  [one] { $value } microsecond\n  *[other] { $value } microseconds\n}",
+        "khmer": "{ $value ->\n  [one] { $value } មីក្រូវិនាទី\n  *[other] { $value } មីក្រូវិនាទី\n}"
+      },
+      "a11y.units.femtoseconds.pattern": {
+        "english": "{ $value ->\n  [one] { $value } femtosecond\n  *[other] { $value } femtoseconds\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ហ្វឹមតូវិនាទី\n  *[other] { $value } ហ្វឹមតូវិនាទី\n}"
+      },
+      "a11y.units.kilopascals.pattern": {
+        "english": "{ $value ->\n  [one] { $value } kilopascal\n  *[other] { $value } kilopascals\n}",
+        "khmer": "{ $value ->\n  [one] { $value } គីឡូប៉ាស្កាល់\n  *[other] { $value } គីឡូប៉ាស្កាល់\n}"
+      },
+      "a11y.units.amperes.pattern": {
+        "english": "{ $value ->\n  [one] { $value } ampere\n  *[other] { $value } amperes\n}",
+        "khmer": "{ $value ->\n  [one] { $value } អំពែ\n  *[other] { $value } អំពែ\n}"
+      },
+      "a11y.units.volts.pattern": {
+        "english": "{ $value ->\n  [one] { $value } volt\n  *[other] { $value } volts\n}",
+        "khmer": "{ $value ->\n  [one] { $value } វ៉ុល\n  *[other] { $value } វ៉ុល\n}"
+      },
+      "a11y.units.newtons.pattern": {
+        "english": "{ $value ->\n  [one] { $value } newton\n  *[other] { $value } newtons\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ញូតុន\n  *[other] { $value } ញូតុន\n}"
+      },
+      "a11y.units.watts.pattern": {
+        "english": "{ $value ->\n  [one] { $value } watt\n  *[other] { $value } watts\n}",
+        "khmer": "{ $value ->\n  [one] { $value } វ៉ាត់\n  *[other] { $value } វ៉ាត់\n}"
+      },
+      "a11y.units.joules.pattern": {
+        "english": "{ $value ->\n  [one] { $value } joule\n  *[other] { $value } joules\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ស៊ូល\n  *[other] { $value } ស៊ូល\n}"
+      },
+      "a11y.units.kelvin.pattern": {
+        "english": "{ $value ->\n  [one] { $value } kelvin\n  *[other] { $value } kelvins\n}",
+        "khmer": "{ $value ->\n  [one] { $value } កែលវិន\n  *[other] { $value } កែលវិន\n}"
+      },
+      "a11y.units.degrees.pattern": {
+        "english": "{ $value ->\n  [one] { $value } degree\n  *[other] { $value } degrees\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ដឺក្រេ\n  *[other] { $value } ដឺក្រេ\n}"
+      },
+      "a11y.units.degreesCelsius.pattern": {
+        "english": "{ $value ->\n  [one] { $value } degree Celsius\n  *[other] { $value } degrees Celsius\n}",
+        "khmer": "{ $value ->\n  [one] { $value } អង្សាសេ\n  *[other] { $value } អង្សាសេ\n}"
+      },
+      "a11y.units.degreesFahrenheit.pattern": {
+        "english": "{ $value ->\n  [one] { $value } degree Fahrenheit\n  *[other] { $value } degrees Fahrenheit\n}",
+        "khmer": "{ $value ->\n  [one] { $value } អង្សាហ្វារិនហៃ\n  *[other] { $value } អង្សាហ្វារិនហៃ\n}"
+      },
+      "a11y.units.liters.pattern": {
+        "english": "{ $value ->\n  [one] { $value } liter\n  *[other] { $value } liters\n}",
+        "khmer": "{ $value ->\n  [one] { $value } លីត្រ\n  *[other] { $value } លីត្រ\n}"
+      },
+      "a11y.units.litersPerSecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } liter per second\n  *[other] { $value } liters per second\n}",
+        "khmer": "{ $value ->\n  [one] { $value } លីត្រក្នុងមួយវិនាទី\n  *[other] { $value } លីត្រក្នុងមួយវិនាទី\n}"
+      },
+      "a11y.units.meters.pattern": {
+        "english": "{ $value ->\n  [one] { $value } meter\n  *[other] { $value } meters\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ម៉ែត្រ\n  *[other] { $value } ម៉ែត្រ\n}"
+      },
+      "a11y.units.metersPerSecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } meter per second\n  *[other] { $value } meters per second\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ម៉ែត្រក្នុងមួយវិនាទី\n  *[other] { $value } ម៉ែត្រក្នុងមួយវិនាទី\n}"
+      },
+      "a11y.units.metersPerSecondSquared.pattern": {
+        "english": "{ $value ->\n  [one] { $value } meter per second squared\n  *[other] { $value } meters per second squared\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ម៉ែត្រក្នុងមួយវិនាទីការ៉េ\n  *[other] { $value } ម៉ែត្រក្នុងមួយវិនាទីការ៉េ\n}"
+      },
+      "a11y.units.metersPerSecondPerSecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } meter per second per second\n  *[other] { $value } meters per second per second\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ម៉ែត្រក្នុងមួយវិនាទីក្នុងមួយវិនាទី\n  *[other] { $value } ម៉ែត្រក្នុងមួយវិនាទីក្នុងមួយវិនាទី\n}"
+      },
+      "a11y.units.grams.pattern": {
+        "english": "{ $value ->\n  [one] { $value } gram\n  *[other] { $value } grams\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ក្រាម\n  *[other] { $value } ក្រាម\n}"
+      },
+      "a11y.units.kilograms.pattern": {
+        "english": "{ $value ->\n  [one] { $value } kilogram\n  *[other] { $value } kilograms\n}",
+        "khmer": "{ $value ->\n  [one] { $value } គីឡូក្រាម\n  *[other] { $value } គីឡូក្រាម\n}"
+      },
+      "a11y.units.kilogramsPerLiter.pattern": {
+        "english": "{ $value ->\n  [one] { $value } kilogram per liter\n  *[other] { $value } kilograms per liter\n}",
+        "khmer": "{ $value ->\n  [one] { $value } គីឡូក្រាមក្នុងមួយលីត្រ\n  *[other] { $value } គីឡូក្រាមក្នុងមួយលីត្រ\n}"
+      },
+      "a11y.units.kilogramsPerCubicMeter.pattern": {
+        "english": "{ $value ->\n  [one] { $value } kilogram per cubic meter\n  *[other] { $value } kilograms per cubic meter\n}",
+        "khmer": "{ $value ->\n  [one] { $value } គីឡូក្រាមក្នុងមួយម៉ែត្រគូប\n  *[other] { $value } គីឡូក្រាមក្នុងមួយម៉ែត្រគូប\n}"
+      },
+      "a11y.units.nanometers.pattern": {
+        "english": "{ $value ->\n  [one] { $value } nanometer\n  *[other] { $value } nanometers\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ណាណូម៉ែត្រ\n  *[other] { $value } ណាណូម៉ែត្រ\n}"
+      },
+      "a11y.units.nanometersPerPicosecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } nanometer per picosecond\n  *[other] { $value } nanometers per picosecond\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ណាណូម៉ែត្រក្នុងមួយពីកូវិនាទី\n  *[other] { $value } ណាណូម៉ែត្រក្នុងមួយពីកូវិនាទី\n}"
+      },
+      "a11y.units.kilometersPerSecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } kilometer per second\n  *[other] { $value } kilometers per second\n}",
+        "khmer": "{ $value ->\n  [one] { $value } គីឡូម៉ែត្រក្នុងមួយវិនាទី\n  *[other] { $value } គីឡូម៉ែត្រក្នុងមួយវិនាទី\n}"
+      },
+      "a11y.units.picometers.pattern": {
+        "english": "{ $value ->\n  [one] { $value } picometer\n  *[other] { $value } picometers\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ពីកូម៉ែត្រ\n  *[other] { $value } ពីកូម៉ែត្រ\n}"
+      },
+      "a11y.units.picometersPerSecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } picometer per second\n  *[other] { $value } picometers per second\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ពីកូម៉ែត្រក្នុងមួយវិនាទី\n  *[other] { $value } ពីកូម៉ែត្រក្នុងមួយវិនាទី\n}"
+      },
+      "a11y.units.picometersPerSecondSquared.pattern": {
+        "english": "{ $value ->\n  [one] { $value } picometer per second squared\n  *[other] { $value } picometers per second squared\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ពីកូម៉ែត្រក្នុងមួយវិនាទីការ៉េ\n  *[other] { $value } ពីកូម៉ែត្រក្នុងមួយវិនាទីការ៉េ\n}"
+      },
+      "a11y.units.nanoseconds.pattern": {
+        "english": "{ $value ->\n  [one] { $value } nanosecond\n  *[other] { $value } nanoseconds\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ណាណូវិនាទី\n  *[other] { $value } ណាណូវិនាទី\n}"
+      },
+      "a11y.units.picoseconds.pattern": {
+        "english": "{ $value ->\n  [one] { $value } picosecond\n  *[other] { $value } picoseconds\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ពីកូវិនាទី\n  *[other] { $value } ពីកូវិនាទី\n}"
+      },
+      "a11y.units.molarAbsorptivity.pattern": {
+        "english": "{ $value } per centimeter per molar",
+        "khmer": "{ $value } ក្នុងមួយសង់ទីម៉ែត្រក្នុងមួយម៉ូឡា"
+      },
+      "a11y.units.ohms.pattern": {
+        "english": "{ $value ->\n  [one] { $value } ohm\n  *[other] { $value } ohms\n}",
+        "khmer": "{ $value ->\n  [one] { $value } អូម\n  *[other] { $value } អូម\n}"
+      },
+      "a11y.units.ohmCentimeters.pattern": {
+        "english": "{ $value ->\n  [one] { $value } ohm-centimeter\n  *[other] { $value } ohm-centimeters\n}",
+        "khmer": "{ $value ->\n  [one] { $value } អូម-សង់ទីម៉ែត្រ\n  *[other] { $value } អូម-សង់ទីម៉ែត្រ\n}"
+      },
+      "a11y.units.millivolts.pattern": {
+        "english": "{ $value ->\n  [one] { $value } millivolt\n  *[other] { $value } millivolts\n}",
+        "khmer": "{ $value ->\n  [one] { $value } មីលីវ៉ុល\n  *[other] { $value } មីលីវ៉ុល\n}"
+      },
+      "a11y.units.milliamperes.pattern": {
+        "english": "{ $value ->\n  [one] { $value } milliampere\n  *[other] { $value } milliamperes\n}",
+        "khmer": "{ $value ->\n  [one] { $value } មីលីអំពែ\n  *[other] { $value } មីលីអំពែ\n}"
+      },
+      "a11y.units.microamperes.pattern": {
+        "english": "{ $value ->\n  [one] { $value } microampere\n  *[other] { $value } microamperes\n}",
+        "khmer": "{ $value ->\n  [one] { $value } មីក្រូអំពែ\n  *[other] { $value } មីក្រូអំពែ\n}"
+      },
+      "a11y.units.farads.pattern": {
+        "english": "{ $value ->\n  [one] { $value } farad\n  *[other] { $value } farads\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ហ្វារ៉ាត់\n  *[other] { $value } ហ្វារ៉ាត់\n}"
+      },
+      "a11y.units.webers.pattern": {
+        "english": "{ $value ->\n  [one] { $value } weber\n  *[other] { $value } webers\n}",
+        "khmer": "{ $value ->\n  [one] { $value } វែប៊ែរ\n  *[other] { $value } វែប៊ែរ\n}"
+      },
+      "a11y.units.gauss.pattern": {
+        "english": "{ $value } gauss",
+        "khmer": "{ $value } ហ្គោស"
+      },
+      "a11y.units.pascalSeconds.pattern": {
+        "english": "{ $value ->\n  [one] { $value } pascal second\n  *[other] { $value } pascal seconds\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ប៉ាស្កាល់វិនាទី\n  *[other] { $value } ប៉ាស្កាល់វិនាទី\n}"
+      },
+      "a11y.units.newtonsPerMeter.pattern": {
+        "english": "{ $value ->\n  [one] { $value } newton per meter\n  *[other] { $value } newtons per meter\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ញូតុនក្នុងមួយម៉ែត្រ\n  *[other] { $value } ញូតុនក្នុងមួយម៉ែត្រ\n}"
+      },
+      "a11y.units.newtonSecondsPerMeter.pattern": {
+        "english": "{ $value ->\n  [one] { $value } newton-second per meter\n  *[other] { $value } newton-seconds per meter\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ញូតុន-វិនាទីក្នុងមួយម៉ែត្រ\n  *[other] { $value } ញូតុន-វិនាទីក្នុងមួយម៉ែត្រ\n}"
+      },
+      "a11y.units.moles.pattern": {
+        "english": "{ $value ->\n  [one] { $value } mole\n  *[other] { $value } moles\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ម៉ូល\n  *[other] { $value } ម៉ូល\n}"
+      },
+      "a11y.units.molesPerSecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } mole per second\n  *[other] { $value } moles per second\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ម៉ូលក្នុងមួយវិនាទី\n  *[other] { $value } ម៉ូលក្នុងមួយវិនាទី\n}"
+      },
+      "a11y.units.molar.pattern": {
+        "english": "{ $value } molar",
+        "khmer": "{ $value } ម៉ូឡា"
+      },
+      "a11y.units.molesPerLiter.pattern": {
+        "english": "{ $value ->\n  [one] { $value } mole per liter\n  *[other] { $value } moles per liter\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ម៉ូលក្នុងមួយលីត្រ\n  *[other] { $value } ម៉ូលក្នុងមួយលីត្រ\n}"
+      },
+      "a11y.units.radians.pattern": {
+        "english": "{ $value ->\n  [one] { $value } radian\n  *[other] { $value } radians\n}",
+        "khmer": "{ $value ->\n  [one] { $value } រ៉ាដ្យង់\n  *[other] { $value } រ៉ាដ្យង់\n}"
+      },
+      "a11y.units.radiansPerSecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } radian per second\n  *[other] { $value } radians per second\n}",
+        "khmer": "{ $value ->\n  [one] { $value } រ៉ាដ្យង់ក្នុងមួយវិនាទី\n  *[other] { $value } រ៉ាដ្យង់ក្នុងមួយវិនាទី\n}"
+      },
+      "a11y.units.radiansPerSecondSquared.pattern": {
+        "english": "{ $value ->\n  [one] { $value } radian per second squared\n  *[other] { $value } radians per second squared\n}",
+        "khmer": "{ $value ->\n  [one] { $value } រ៉ាដ្យង់ក្នុងមួយវិនាទីការ៉េ\n  *[other] { $value } រ៉ាដ្យង់ក្នុងមួយវិនាទីការ៉េ\n}"
+      },
+      "a11y.units.years.pattern": {
+        "english": "{ $value ->\n  [one] { $value } year\n  *[other] { $value } years\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ឆ្នាំ\n  *[other] { $value } ឆ្នាំ\n}"
+      },
+      "a11y.units.astronomicalUnits.pattern": {
+        "english": "{ $value ->\n  [one] { $value } astronomical unit\n  *[other] { $value } astronomical units\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ខ្នាតតារាសាស្ត្រ\n  *[other] { $value } ខ្នាតតារាសាស្ត្រ\n}"
+      },
+      "a11y.units.astronomicalUnitsSquared.pattern": {
+        "english": "{ $value ->\n  [one] { $value } square astronomical unit\n  *[other] { $value } square astronomical units\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ខ្នាតតារាសាស្ត្រការ៉េ\n  *[other] { $value } ខ្នាតតារាសាស្ត្រការ៉េ\n}"
+      },
+      "a11y.units.viewCoordinatesPerSecond.pattern": {
+        "english": "{ $value } view-coordinates per second",
+        "khmer": "{ $value } កូអរដោណេទិដ្ឋភាពក្នុងមួយវិនាទី"
+      },
+      "a11y.units.atomicMassUnits.pattern": {
+        "english": "{ $value ->\n  [one] { $value } atomic mass unit\n  *[other] { $value } atomic mass units\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ខ្នាតម៉ាសអាតូមិក\n  *[other] { $value } ខ្នាតម៉ាសអាតូមិក\n}"
+      },
+      "a11y.units.coulombs.pattern": {
+        "english": "{ $value ->\n  [one] { $value } coulomb\n  *[other] { $value } coulombs\n}",
+        "khmer": "{ $value ->\n  [one] { $value } គូឡុំ\n  *[other] { $value } គូឡុំ\n}"
+      },
+      "a11y.units.cubicMeters.pattern": {
+        "english": "{ $value ->\n  [one] { $value } cubic meter\n  *[other] { $value } cubic meters\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ម៉ែត្រគូប\n  *[other] { $value } ម៉ែត្រគូប\n}"
+      },
+      "a11y.units.cubicPicometers.pattern": {
+        "english": "{ $value ->\n  [one] { $value } cubic picometer\n  *[other] { $value } cubic picometers\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ពីកូម៉ែត្រគូប\n  *[other] { $value } ពីកូម៉ែត្រគូប\n}"
+      },
+      "a11y.units.electronVolt.pattern": {
+        "english": "{ $value ->\n  [one] { $value } electron volt\n  *[other] { $value } electron volts\n}",
+        "khmer": "{ $value ->\n  [one] { $value } អេឡិចត្រុងវ៉ុល\n  *[other] { $value } អេឡិចត្រុងវ៉ុល\n}"
+      },
+      "a11y.units.millimeters.pattern": {
+        "english": "{ $value ->\n  [one] { $value } millimeter\n  *[other] { $value } millimeters\n}",
+        "khmer": "{ $value ->\n  [one] { $value } មីលីម៉ែត្រ\n  *[other] { $value } មីលីម៉ែត្រ\n}"
+      },
+      "a11y.units.micrometers.pattern": {
+        "english": "{ $value ->\n  [one] { $value } micrometer\n  *[other] { $value } micrometers\n}",
+        "khmer": "{ $value ->\n  [one] { $value } មីក្រូម៉ែត្រ\n  *[other] { $value } មីក្រូម៉ែត្រ\n}"
+      },
+      "a11y.units.particlesPerPicosecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } particle per picosecond\n  *[other] { $value } particles per picosecond\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ភាគល្អិតក្នុងមួយពីកូវិនាទី\n  *[other] { $value } ភាគល្អិតក្នុងមួយពីកូវិនាទី\n}"
+      },
+      "a11y.units.photonsPerSecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } photon per second\n  *[other] { $value } photons per second\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ហ្វូតុងក្នុងមួយវិនាទី\n  *[other] { $value } ហ្វូតុងក្នុងមួយវិនាទី\n}"
+      },
+      "a11y.units.revolutionsPerMinute.pattern": {
+        "english": "{ $value ->\n  [one] { $value } revolution per minute\n  *[other] { $value } revolutions per minute\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ជុំក្នុងមួយនាទី\n  *[other] { $value } ជុំក្នុងមួយនាទី\n}"
+      },
+      "a11y.units.atmospheres.pattern": {
+        "english": "{ $value ->\n  [one] { $value } atmosphere\n  *[other] { $value } atmospheres\n}",
+        "khmer": "{ $value ->\n  [one] { $value } អាត់ម៉ូស្វ៊ែ\n  *[other] { $value } អាត់ម៉ូស្វ៊ែ\n}"
+      },
+      "a11y.units.kilogramMetersPerSecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } kilogram-meter per second\n  *[other] { $value } kilogram-meters per second\n}",
+        "khmer": "{ $value ->\n  [one] { $value } គីឡូក្រាម-ម៉ែត្រក្នុងមួយវិនាទី\n  *[other] { $value } គីឡូក្រាម-ម៉ែត្រក្នុងមួយវិនាទី\n}"
+      },
+      "a11y.units.picometersPerPicosecond.pattern": {
+        "english": "{ $value ->\n  [one] { $value } picometer per picosecond\n  *[other] { $value } picometers per picosecond\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ពីកូម៉ែត្រក្នុងមួយពីកូវិនាទី\n  *[other] { $value } ពីកូម៉ែត្រក្នុងមួយពីកូវិនាទី\n}"
+      },
+      "a11y.units.electronMasses.pattern": {
+        "english": "{ $value ->\n  [one] { $value } electron mass\n  *[other] { $value } electron masses\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ម៉ាសអេឡិចត្រុង\n  *[other] { $value } ម៉ាសអេឡិចត្រុង\n}"
+      },
+      "a11y.units.electronVolts.pattern": {
+        "english": "{ $value ->\n  [one] { $value } electron volt\n  *[other] { $value } electron volts\n}",
+        "khmer": "{ $value ->\n  [one] { $value } អេឡិចត្រុងវ៉ុល\n  *[other] { $value } អេឡិចត្រុងវ៉ុល\n}"
+      },
+      "a11y.units.electronVoltsPerNanometerSquared.pattern": {
+        "english": "{ $value ->\n  [one] { $value } electron volt per nanometer squared\n  *[other] { $value } electron volts per nanometer squared\n}",
+        "khmer": "{ $value ->\n  [one] { $value } អេឡិចត្រុងវ៉ុលក្នុងមួយណាណូម៉ែត្រការ៉េ\n  *[other] { $value } អេឡិចត្រុងវ៉ុលក្នុងមួយណាណូម៉ែត្រការ៉េ\n}"
+      },
+      "a11y.units.inverseFemtoseconds.pattern": {
+        "english": "{ $value ->\n  [one] { $value } inverse femtosecond\n  *[other] { $value } inverse femtoseconds\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ច្រាសហ្វឹមតូវិនាទី\n  *[other] { $value } ច្រាសហ្វឹមតូវិនាទី\n}"
+      },
+      "a11y.units.inverseNanometers.pattern": {
+        "english": "{ $value ->\n  [one] { $value } inverse nanometer\n  *[other] { $value } inverse nanometers\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ច្រាសណាណូម៉ែត្រ\n  *[other] { $value } ច្រាសណាណូម៉ែត្រ\n}"
+      },
+      "a11y.units.inverseSquareRootNanometers.pattern": {
+        "english": "{ $value ->\n  [one] { $value } inverse square root nanometer\n  *[other] { $value } inverse square root nanometers\n}",
+        "khmer": "{ $value ->\n  [one] { $value } ច្រាសឫសការ៉េណាណូម៉ែត្រ\n  *[other] { $value } ច្រាសឫសការ៉េណាណូម៉ែត្រ\n}"
+      },
+      "a11y.units.voltsPerNanometer.pattern": {
+        "english": "{ $value ->\n  [one] { $value } volt per nanometer\n  *[other] { $value } volts per nanometer\n}",
+        "khmer": "{ $value ->\n  [one] { $value } វ៉ុលក្នុងមួយណាណូម៉ែត្រ\n  *[other] { $value } វ៉ុលក្នុងមួយណាណូម៉ែត្រ\n}"
+      }
+    },
+    "soccer-common": {
+      "needAtLeastOneKick": {
+        "english": "Need at least one kick",
+        "khmer": "ត្រូវទាត់យ៉ាងហោចណាស់មួយលើក"
+      },
+      "kick": {
+        "english": "Kick",
+        "khmer": "ទាត់"
+      },
+      "keyboardHelpDialog.grabOrReleaseItemHeading": {
+        "english": "Soccer Ball",
+        "khmer": "បាល់ទាត់"
+      },
+      "keyboardHelpDialog.grabOrReleaseItem": {
+        "english": "soccer ball",
+        "khmer": "បាល់ទាត់"
+      },
+      "keyboardHelpDialog.moveHeading": {
+        "english": "Move Soccer Ball",
+        "khmer": "រំកិលបាល់ទាត់"
+      },
+      "keyboardHelpDialog.moveDescription": {
+        "english": "Move grabbed soccer ball",
+        "khmer": "រំកិលបាល់ទាត់ដែលបានចាប់យក"
+      },
+      "a11y.grabSoccerBall": {
+        "english": "Grab soccer ball",
+        "khmer": "ចាប់យកបាល់ទាត់"
+      },
+      "a11y.noSoccerBallsToGrab": {
+        "english": "No soccer balls to grab",
+        "khmer": "គ្មានបាល់ទាត់សម្រាប់ចាប់យកទេ"
+      },
+      "a11y.sortingSoccerBallPattern": {
+        "english": "Meter {{currentMeter}} of {{totalMeters}}, Move Top of {{stackHeight}} Soccer Balls",
+        "khmer": "ម៉ែត្រទី {{currentMeter}} នៃ {{totalMeters}}, រំកិលបាល់ទាត់ខាងលើបង្អស់នៃកម្ពស់ {{stackHeight}}"
+      },
+      "a11y.selectingSoccerBallPattern": {
+        "english": "Meter {{currentMeter}} of {{totalMeters}}, Top of {{stackHeight}} Soccer Balls",
+        "khmer": "ម៉ែត្រទី {{currentMeter}} នៃ {{totalMeters}}, បាល់ទាត់ខាងលើបង្អស់នៃកម្ពស់ {{stackHeight}}"
+      },
+      "a11y.soccerBallHelpText": {
+        "english": "Grab top soccer ball. Once grabbed, use keyboard shortcuts to change kick distance.",
+        "khmer": "ចាប់យកបាល់ទាត់ខាងលើបង្អស់។ នៅពេលចាប់យកបានហើយ សូមប្រើផ្លូវកាត់ក្តារចុចដើម្បីផ្លាស់ប្តូរចម្ងាយទាត់។"
+      },
+      "a11y.movable": {
+        "english": "movable",
+        "khmer": "អាចរំកិលបាន"
+      }
+    },
+    "sun": {
+      "sun.title": {
+        "english": "sun demo",
+        "khmer": "ការបង្ហាញគំរូ sun"
+      },
+      "screen.buttons": {
+        "english": "Buttons",
+        "khmer": "ប៊ូតុង"
+      },
+      "screen.components": {
+        "english": "Components",
+        "khmer": "សមាសភាគ"
+      },
+      "screen.dialogs": {
+        "english": "Dialogs",
+        "khmer": "ផ្ទាំងប្រអប់សារ"
+      },
+      "a11y.numberSpinnerRoleDescription": {
+        "english": "number spinner",
+        "khmer": "ឧបករណ៍បង្កើនបន្ថយតម្លៃលេខ"
+      },
+      "a11y.closed": {
+        "english": "Closed",
+        "khmer": "បានបិទ"
+      },
+      "a11y.titleClosePattern": {
+        "english": "{{title}}, Close.",
+        "khmer": "{{title}}, បិទ។"
+      },
+      "a11y.aBSwitch.accessibleNamePattern": {
+        "english": "{{selectedValue}}, Switch to {{otherValue}}",
+        "khmer": "{{selectedValue}}, ប្តូរទៅ {{otherValue}}"
+      },
+      "a11y.radioButtonGroup.combinedNameResponse": {
+        "english": "{{groupName}}, {{buttonName}}",
+        "khmer": "{{groupName}}, {{buttonName}}"
+      },
+      "a11y.carousel.accessibleRoleDescription": {
+        "english": "carousel",
+        "khmer": "ផ្ទាំងរំកិលរូបភាព (Carousel)"
+      },
+      "a11y.carousel.page.accessibleName": {
+        "english": "Page",
+        "khmer": "ទំព័រ"
+      },
+      "a11y.carousel.nextPreviousButtons.nextButton.accessibleName": {
+        "english": "Next",
+        "khmer": "បន្ទាប់"
+      },
+      "a11y.carousel.nextPreviousButtons.nextButton.accessibleContextResponse": {
+        "english": "{{number}} more items available.",
+        "khmer": "មាន {{number}} ធាតុទៀតដែលអាចប្រើបាន។"
+      },
+      "a11y.carousel.nextPreviousButtons.previousButton.accessibleName": {
+        "english": "Previous",
+        "khmer": "មុន"
+      },
+      "a11y.carousel.nextPreviousButtons.previousButton.accessibleContextResponse": {
+        "english": "{{number}} previous items available.",
+        "khmer": "មាន {{number}} ធាតុមុនដែលអាចប្រើបាន។"
+      },
+      "a11y.pageControl.accessibleName": {
+        "english": "Pages",
+        "khmer": "ទំព័រ"
+      },
+      "a11y.pageControl.dotNode.accessibleNamePattern": {
+        "english": "Page {{pageNumber}}",
+        "khmer": "ទំព័រ {{pageNumber}}"
+      }
+    },
+    "tambo": {
+      "tambo.title": {
+        "english": "Tambo Demo",
+        "khmer": "ការបង្ហាញគំរូ Tambo"
+      },
+      "screen.simLikeComponents": {
+        "english": "Sim-Like Components",
+        "khmer": "សមាសភាគដូចការពិសោធន៍ក្លែងធ្វើ"
+      },
+      "screen.uiComponents": {
+        "english": "UI Components",
+        "khmer": "សមាសភាគ UI"
+      },
+      "screen.testing": {
+        "english": "Testing",
+        "khmer": "ការសាកល្បង"
+      }
+    },
+    "twixt": {
+      "twixt.title": {
+        "english": "Twixt Demo",
+        "khmer": "ការបង្ហាញគំរូ Twixt"
+      },
+      "screen.animation": {
+        "english": "Animation",
+        "khmer": "ជីវចល"
+      },
+      "screen.dampedMotion": {
+        "english": "Damped Motion",
+        "khmer": "ចលនាបន្ថយល្បឿន (Damped Motion)"
+      },
+      "screen.transitions": {
+        "english": "Transitions",
+        "khmer": "ដំណើរឆ្លាស់ (Transitions)"
+      }
+    }
+  }
+}
